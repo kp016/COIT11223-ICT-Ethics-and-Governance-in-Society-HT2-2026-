@@ -18,15 +18,13 @@ https://www.youtube.com/watch?v=JcXKbUIebrU
 
 ![Diagram comparing ANI, AGI, and ASI](images/ani-agi-asi-diagram.svg)
 
-The video frames three levels: ANI (Artificial Narrow Intelligence), task-specific AI like chatbots and recommenders, is the only one that exists today. AGI (Artificial General Intelligence) would reason across domains at human level but has not been built. ASI (Artificial Superintelligence) would exceed humans in every field and remains purely theoretical, though it is central to the AI safety debate raised later in this portfolio (see Artefact 3).
-
 ### Summary of the artefact
 
-Learn Bright (2024) produced a short explainer video that breaks artificial intelligence down into three levels: narrow AI (ANI), general AI (AGI), and superintelligence (ASI), and walks through everyday examples such as voice assistants and chatbots. The video also weighs benefits, including automating dangerous tasks, against drawbacks such as job losses and the potential for AI to be weaponised.
+AI is described in Learn Bright (2024) as computer science with large datasets and problem solving, with this being a reference to the hierarchy of ANI, AGI and ASI. It illustrates ANI as the sole level of use today in voice-recognition chatbots and robotics used in dangerous tasks. The video considers the advantages of automation, such as saving time and eliminating human error, while also considering the disadvantages, such as loss of employment and environmental impact.
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because it matched what we covered on AI definitions in the Week 2 workshop, particularly the difficulty of pinning down what "intelligence" even means (McCarthy 1955, cited in Galea 2026, p. 8). It gave me a plain-language starting point before the more technical workshop content on machine learning and generative AI, and it reminded me that framing AI purely by its "pros and cons" can hide harder governance questions.
+I selected this artefact because it would represent what we had discussed in the Week 2 workshop concerning what is meant by the term 'intelligence' and the difficulties of articulating this concept (McCarthy 1955, cited in Galea 2026, p. 8). It provided a starting point from which to approach the more technical workshop content on machine learning, and provided a reminder that the discussion of AI's 'pros and cons' can obscure more difficult governance issues.
 
 ## Artefact 2: Duolingo's CEO outlined his plan to become an 'AI-first' company. He didn't expect the human backlash that followed
 
@@ -34,11 +32,11 @@ https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-
 
 ### Summary of the artefact
 
-Braun (2025) reports that Duolingo CEO Luis von Ahn announced in April 2025 that the language-learning app would become "AI-first," phasing out contractors wherever AI could do their work. The plan sparked immediate public backlash, with users threatening to cancel subscriptions and delete the app, forcing von Ahn to walk it back a week later and clarify that AI was meant to accelerate, not replace, human staff.
+According to Braun (2025), Duolingo CEO Luis von Ahn announced in April 2025 that the language-learning app would become an 'AI-first' company, with plans to replace contractors wherever AI could take on their tasks. The plan immediately faced public criticism, leading von Ahn to backtrack a week later and state that AI was meant to speed up, not replace, human employees.
 
 ### Justification on why I chose the artefact
 
-I chose this over a more technical AI story because everyone recognises Duolingo and its owl mascot, which makes the discomfort of a familiar app announcing it would cut humans for AI easy to grasp. It mirrors the Week 2 workshop's benefits-versus-drawbacks framing of AI, including job losses, but shows accountability is not only a matter for autonomous weapons or hospital algorithms: ordinary consumer products raise the same "who loses out" question. Von Ahn's own admission that he "did not expect the amount of blowback" shows even AI companies can misjudge how personally people feel about being replaced.
+I picked this over a more technical AI story because everyone knows Duolingo, and the discomfort of a familiar app announcing it would cut humans for AI is easy to grasp. It mirrors how the workshop framed AI's benefits and drawbacks, but shows the question of who loses out isn't limited to autonomous weapons or hospital algorithms; it applies just as much to an everyday product. Von Ahn admitted he 'did not expect the amount of blowback' (Braun 2025).
 
 ## Artefact 3: Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain 'risk'
 
@@ -50,7 +48,7 @@ Wang (2026) covers the Trump administration ordering all US federal agencies to 
 
 ### Justification on why I chose the artefact
 
-This links directly to the workshop's autonomous weapons discussion, where we considered whether fully autonomous "killer robots" making independent kill decisions should ever be allowed. Anthropic drawing a hard line, and a government retaliating over it, showed me this is not a hypothetical dilemma but a live governance fight happening right now between technologists and the state, exactly the tension Human Rights Watch's campaign against fully autonomous weapons warns about.
+This links directly to the workshop's autonomous weapons discussion, where we considered whether fully autonomous 'killer robots' making independent kill decisions should ever be allowed. Anthropic drawing a hard line, and a government retaliating over it, showed me this is not a hypothetical dilemma but a live governance fight happening right now between technologists and the state, exactly the tension Human Rights Watch's campaign against fully autonomous weapons warns about.
 
 ## Artefact 4: Australia's AI Ethics Principles
 
@@ -62,7 +60,7 @@ The Department of Industry, Science and Resources (2025) sets out Australia's ei
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because it grounds the more abstract ethical concerns raised elsewhere in this portfolio, like bias in facial recognition or unaccountable machine learning decisions, in an actual governance framework rather than just a classroom debate. Comparing Australia's principles-based approach to the EU's stricter, rules-heavy model from the workshop helped me see that "ethical AI" is not one fixed global standard but a policy choice each country is still working out.
+I chose this artefact because it grounds the more abstract ethical concerns raised elsewhere in this portfolio, like bias in facial recognition or unaccountable machine learning decisions, in an actual governance framework rather than just a classroom debate. Comparing Australia's principles-based approach to the EU's stricter, rules-heavy model from the workshop helped me see that 'ethical AI' is not one fixed global standard but a policy choice each country is still working out.
 
 ## AI usage statement
 
@@ -70,12 +68,12 @@ I used an AI tool to help research candidate artefacts and locate credible sourc
 
 ## References
 
-Braun, S 2025, 'Duolingo's CEO outlined his plan to become an 'AI-first' company. He didn't expect the human backlash that followed', *Fortune*, 9 June, viewed 23 July 2026, https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/
+Braun, S 2025, 'Duolingo's CEO outlined his plan to become an "AI-first" company. He didn't expect the human backlash that followed', *Fortune*, 9 June, viewed 23 July 2026, https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/
 
 Department of Industry, Science and Resources 2025, *Australia's AI ethics principles*, viewed 16 July 2026, https://www.industry.gov.au/publications/australias-ai-ethics-principles
 
-Galea, G 2026, *Week 2 Workshop: Artificial Intelligence*, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 16 July 2026, http://moodle.cqu.edu.au
+Galea, G 2026, 'Week 2 workshop: artificial intelligence', PowerPoint presentation, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 16 July 2026, http://moodle.cqu.edu.au/
 
 Learn Bright 2024, *What is AI? | Learn all about artificial intelligence*, video, YouTube, viewed 16 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU
 
-Wang, S 2026, 'Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain "risk"', *ABC News*, 28 February, viewed 23 July 2026, https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
+Wang, S 2026, 'Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain "risk"', *ABC News*, 27 February, viewed 23 July 2026, https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
