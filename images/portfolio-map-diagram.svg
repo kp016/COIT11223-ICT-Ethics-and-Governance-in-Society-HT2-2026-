@@ -1,0 +1,57 @@
+<svg viewBox="0 0 960 560" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="960" height="560" fill="#0f172a"/>
+
+  <text x="480" y="42" text-anchor="middle" fill="#f8fafc" font-size="24" font-weight="700">Portfolio Map: AI Ethics and Governance</text>
+  <text x="480" y="66" text-anchor="middle" fill="#94a3b8" font-size="13">How the four artefacts connect to one shared theme</text>
+
+  <!-- connecting lines from hub to each node -->
+  <line x1="480" y1="280" x2="480" y2="160" stroke="#475569" stroke-width="2"/>
+  <line x1="480" y1="280" x2="740" y2="280" stroke="#475569" stroke-width="2"/>
+  <line x1="480" y1="280" x2="480" y2="400" stroke="#475569" stroke-width="2"/>
+  <line x1="480" y1="280" x2="220" y2="280" stroke="#475569" stroke-width="2"/>
+
+  <!-- central hub -->
+  <circle cx="480" cy="280" r="78" fill="#1e293b" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="480" y="270" text-anchor="middle" fill="#f8fafc" font-size="15" font-weight="700">AI Ethics &amp;</text>
+  <text x="480" y="290" text-anchor="middle" fill="#f8fafc" font-size="15" font-weight="700">Governance</text>
+  <text x="480" y="308" text-anchor="middle" fill="#94a3b8" font-size="10">Who decides, who</text>
+  <text x="480" y="320" text-anchor="middle" fill="#94a3b8" font-size="10">is accountable</text>
+
+  <!-- Node 1: top - Defining AI -->
+  <g>
+    <rect x="380" y="70" width="200" height="90" rx="12" fill="#134e4a" stroke="#2dd4bf" stroke-width="2"/>
+    <text x="480" y="94" text-anchor="middle" fill="#5eead4" font-size="12" font-weight="700">ARTEFACT 1</text>
+    <text x="480" y="114" text-anchor="middle" fill="#f0fdfa" font-size="13" font-weight="600">Defining AI</text>
+    <text x="480" y="132" text-anchor="middle" fill="#ccfbf1" font-size="10">ANI, AGI, ASI</text>
+    <text x="480" y="146" text-anchor="middle" fill="#ccfbf1" font-size="10">what counts as "intelligent"</text>
+  </g>
+
+  <!-- Node 2: right - Consumer accountability -->
+  <g>
+    <rect x="745" y="235" width="200" height="90" rx="12" fill="#78350f" stroke="#fb923c" stroke-width="2"/>
+    <text x="845" y="259" text-anchor="middle" fill="#fdba74" font-size="12" font-weight="700">ARTEFACT 2</text>
+    <text x="845" y="279" text-anchor="middle" fill="#fff7ed" font-size="13" font-weight="600">Consumer trust</text>
+    <text x="845" y="297" text-anchor="middle" fill="#fed7aa" font-size="10">Duolingo "AI-first" backlash</text>
+    <text x="845" y="311" text-anchor="middle" fill="#fed7aa" font-size="10">who loses out day to day</text>
+  </g>
+
+  <!-- Node 3: bottom - Autonomous weapons -->
+  <g>
+    <rect x="380" y="400" width="200" height="90" rx="12" fill="#4c1d95" stroke="#c084fc" stroke-width="2"/>
+    <text x="480" y="424" text-anchor="middle" fill="#d8b4fe" font-size="12" font-weight="700">ARTEFACT 3</text>
+    <text x="480" y="444" text-anchor="middle" fill="#faf5ff" font-size="13" font-weight="600">State power</text>
+    <text x="480" y="462" text-anchor="middle" fill="#e9d5ff" font-size="10">Anthropic vs Pentagon</text>
+    <text x="480" y="476" text-anchor="middle" fill="#e9d5ff" font-size="10">autonomous weapons risk</text>
+  </g>
+
+  <!-- Node 4: left - National policy -->
+  <g>
+    <rect x="15" y="235" width="200" height="90" rx="12" fill="#1e3a8a" stroke="#60a5fa" stroke-width="2"/>
+    <text x="115" y="259" text-anchor="middle" fill="#93c5fd" font-size="12" font-weight="700">ARTEFACT 4</text>
+    <text x="115" y="279" text-anchor="middle" fill="#eff6ff" font-size="13" font-weight="600">National policy</text>
+    <text x="115" y="297" text-anchor="middle" fill="#bfdbfe" font-size="10">Australia's AI Ethics Principles</text>
+    <text x="115" y="311" text-anchor="middle" fill="#bfdbfe" font-size="10">one country's answer</text>
+  </g>
+
+  <text x="480" y="535" text-anchor="middle" fill="#64748b" font-size="12">Same question at four scales: a definition, a company, a government, a nation</text>
+</svg>
