@@ -4,7 +4,7 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 ## Workshop 2 attendance
 
-[Insert your Workshop 2 selfie here, e.g. `![Workshop 2 attendance](images/workshop2-selfie.jpg)` — required as evidence of attendance/engagement.]
+[Insert your Workshop 2 selfie here, e.g. `![Workshop 2 attendance](images/workshop2-selfie.jpg)`, required as evidence of attendance/engagement.]
 
 ## Artefact 1: What Is AI? | Learn all about artificial intelligence
 
@@ -56,7 +56,7 @@ I chose this artefact because it grounds the more abstract ethical concerns rais
 
 ## AI usage statement
 
-[Required by the task guide — briefly describe, in your own words, how you used AI during planning/research only, e.g.: "I used an AI tool to help shortlist candidate artefacts and check my Harvard referencing format. All summaries, justifications, and reflections were written and verified by me." Edit this to reflect what you actually did.]
+[Required by the task guide: briefly describe, in your own words, how you used AI during planning/research only, e.g.: "I used an AI tool to help shortlist candidate artefacts and check my Harvard referencing format. All summaries, justifications, and reflections were written and verified by me." Edit this to reflect what you actually did.]
 
 ## References
 
