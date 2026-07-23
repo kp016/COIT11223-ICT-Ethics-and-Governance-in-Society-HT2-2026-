@@ -64,7 +64,7 @@ I chose this artefact because it grounds the more abstract ethical concerns rais
 
 ## AI usage statement
 
-[Required by the task guide: briefly describe, in your own words, how you used AI during planning/research only, e.g.: "I used an AI tool to help shortlist candidate artefacts and check my Harvard referencing format. All summaries, justifications, and reflections were written and verified by me." Edit this to reflect what you actually did.]
+I used an AI tool to help research candidate artefacts and locate credible sources, and to check my citations against the Harvard referencing format. I then read those sources myself and wrote all summaries, justifications, and reflections in my own words.
 
 ## References
 
