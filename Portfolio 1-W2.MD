@@ -6,11 +6,13 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 [Insert your Workshop 2 selfie here, e.g. `![Workshop 2 attendance](images/workshop2-selfie.jpg)`, required as evidence of attendance/engagement.]
 
+## Portfolio map
+
+![Diagram mapping the four artefacts to the shared theme of AI ethics and governance](images/portfolio-map-diagram.svg)
+
 ## Artefact 1: What Is AI? | Learn all about artificial intelligence
 
 https://www.youtube.com/watch?v=JcXKbUIebrU
-
-![Screenshot of the "What Is AI?" video by Learn Bright on YouTube](images/artefact1-video-screenshot.jpg)
 
 ![Diagram comparing ANI, AGI, and ASI](images/ani-agi-asi-diagram.svg)
 
@@ -28,8 +30,6 @@ I chose this artefact because it matched what we covered on AI definitions in th
 
 https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/
 
-![Screenshot of the Fortune article on Duolingo's AI-first announcement](images/artefact2-duolingo-screenshot.jpg)
-
 ### Summary of the artefact
 
 Braun (2025) reports that Duolingo CEO Luis von Ahn announced in April 2025 that the language-learning app would become "AI-first," phasing out contractors wherever AI could do their work. The plan sparked immediate public backlash, with users threatening to cancel subscriptions and delete the app, forcing von Ahn to walk it back a week later and clarify that AI was meant to accelerate, not replace, human staff.
@@ -42,8 +42,6 @@ I chose this over a more technical AI story because everyone recognises Duolingo
 
 https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
 
-![Screenshot of the ABC News article on Anthropic and the Pentagon contract](images/artefact3-anthropic-screenshot.jpg)
-
 ### Summary of the artefact
 
 Wang (2026) covers the Trump administration ordering all US federal agencies to stop using Anthropic's AI after the company refused Pentagon contract terms that would have allowed its models to be used for autonomous weapons targeting and mass domestic surveillance, with a six-month phase-out period for departments already relying on the technology.
@@ -55,8 +53,6 @@ This links directly to the workshop's autonomous weapons discussion, where we co
 ## Artefact 4: Australia's AI Ethics Principles
 
 https://www.industry.gov.au/publications/australias-ai-ethics-principles
-
-![Screenshot of the Australian Government's AI Ethics Principles page](images/artefact4-australia-screenshot.jpg)
 
 ### Summary of the artefact
 
