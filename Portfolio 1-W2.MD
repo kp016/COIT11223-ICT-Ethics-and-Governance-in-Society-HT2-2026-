@@ -18,17 +18,17 @@ Learn Bright (2024) produced a short explainer video that breaks artificial inte
 
 I chose this artefact because it matched what we covered on AI definitions in the Week 2 workshop, particularly the difficulty of pinning down what "intelligence" even means (McCarthy 1955, cited in Galea 2026, p. 8). It gave me a plain-language starting point before the more technical workshop content on machine learning and generative AI, and it reminded me that framing AI purely by its "pros and cons" can hide harder governance questions.
 
-## Artefact 2: How Waymo outlasted the competition and made robo-taxis a real business
+## Artefact 2: AI-supported mammography screening results in fewer aggressive and advanced breast cancers, finds full results from first randomised controlled trial
 
-https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/
+https://ecancer.org/en/news/27721-ai-supported-mammography-screening-results-in-fewer-aggressive-and-advanced-breast-cancers-finds-full-results-from-first-randomised-controlled-trial
 
 ### Summary of the artefact
 
-Meyer (2024) reports on how Waymo became the leading robotaxi operator in the US after rivals such as Uber, Apple, and General Motors' Cruise abandoned or paused their self-driving programs following crashes and safety failures. The article credits Waymo's slow, safety-first rollout and improving machine learning "generalisation" across cities for its lead over faster-moving competitors.
+'AI-supported mammography screening' (2026) reports the full results of the MASAI trial, the first randomised controlled trial of AI in a national breast cancer screening programme, covering over 100,000 Swedish women. AI-supported double reading cut interval cancer diagnoses by 12 percent and radiologists' workload substantially, without raising the false-positive rate, though the system still worked alongside a human radiologist rather than replacing one.
 
 ### Justification on why I chose the artefact
 
-I selected this article because it shows the real-world stakes of the machine learning concepts from the workshop: an ML system is only as trustworthy as the data and testing behind it. Waymo's caution, next to Cruise's dragging incident, illustrates the ethical question raised in class of who is accountable when an autonomous system gets it wrong.
+I picked this over a more general AI story because it shows computer vision, one of the AI technologies from the Week 2 workshop, producing a measurable outcome rather than a hypothetical one. It also sharpens the workshop's accountability question: the trial still missed some cancers, ran in one country on one AI system, and did not collect race or ethnicity data, so its fairness across patient populations is untested. It shows AI augmenting expert judgement, not replacing it, a more realistic near-term picture than the fully autonomous scenarios elsewhere in this portfolio.
 
 ## Artefact 3: Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain 'risk'
 
@@ -60,12 +60,12 @@ I chose this artefact because it grounds the more abstract ethical concerns rais
 
 ## References
 
+'AI-supported mammography screening results in fewer aggressive and advanced breast cancers, finds full results from first randomised controlled trial' 2026, *ecancer*, 30 January, viewed 23 July 2026, https://ecancer.org/en/news/27721-ai-supported-mammography-screening-results-in-fewer-aggressive-and-advanced-breast-cancers-finds-full-results-from-first-randomised-controlled-trial
+
 Department of Industry, Science and Resources 2025, *Australia's AI ethics principles*, viewed 16 July 2026, https://www.industry.gov.au/publications/australias-ai-ethics-principles
 
 Galea, G 2026, *Week 2 Workshop: Artificial Intelligence*, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 16 July 2026, http://moodle.cqu.edu.au
 
 Learn Bright 2024, *What is AI? | Learn all about artificial intelligence*, video, YouTube, viewed 16 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU
-
-Meyer, D 2024, 'How Waymo outlasted the competition and made robo-taxis a real business', *Fortune*, 29 May, viewed 16 July 2026, https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/
 
 Wang, S 2026, 'Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain "risk"', *ABC News*, 27 February, viewed 16 July 2026, https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
