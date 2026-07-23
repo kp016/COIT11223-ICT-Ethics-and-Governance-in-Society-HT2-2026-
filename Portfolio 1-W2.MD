@@ -4,7 +4,9 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 ## Workshop 2 attendance
 
-[Insert your Workshop 2 selfie here, e.g. `![Workshop 2 attendance](images/workshop2-selfie.jpg)`, required as evidence of attendance/engagement.]
+![Workshop 2 attendance, group photo with classmates](images/workshop2-selfie.jpg)
+
+Proof of attendance at the Week 2 workshop for ICT Ethics and Governance in Society.
 
 ## Portfolio map
 
