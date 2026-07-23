@@ -18,17 +18,17 @@ Learn Bright (2024) produced a short explainer video that breaks artificial inte
 
 I chose this artefact because it matched what we covered on AI definitions in the Week 2 workshop, particularly the difficulty of pinning down what "intelligence" even means (McCarthy 1955, cited in Galea 2026, p. 8). It gave me a plain-language starting point before the more technical workshop content on machine learning and generative AI, and it reminded me that framing AI purely by its "pros and cons" can hide harder governance questions.
 
-## Artefact 2: AI-supported mammography screening results in fewer aggressive and advanced breast cancers, finds full results from first randomised controlled trial
+## Artefact 2: Duolingo's CEO outlined his plan to become an 'AI-first' company. He didn't expect the human backlash that followed
 
-https://ecancer.org/en/news/27721-ai-supported-mammography-screening-results-in-fewer-aggressive-and-advanced-breast-cancers-finds-full-results-from-first-randomised-controlled-trial
+https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/
 
 ### Summary of the artefact
 
-'AI-supported mammography screening' (2026) reports the full results of the MASAI trial, the first randomised controlled trial of AI in a national breast cancer screening programme, covering over 100,000 Swedish women. AI-supported double reading cut interval cancer diagnoses by 12 percent and radiologists' workload substantially, without raising the false-positive rate, though the system still worked alongside a human radiologist rather than replacing one.
+Braun (2025) reports that Duolingo CEO Luis von Ahn announced in April 2025 that the language-learning app would become "AI-first," phasing out contractors wherever AI could do their work. The plan sparked immediate public backlash, with users threatening to cancel subscriptions and delete the app, forcing von Ahn to walk it back a week later and clarify that AI was meant to accelerate, not replace, human staff.
 
 ### Justification on why I chose the artefact
 
-I picked this over a more general AI story because it shows computer vision, one of the AI technologies from the Week 2 workshop, producing a measurable outcome rather than a hypothetical one. It also sharpens the workshop's accountability question: the trial still missed some cancers, ran in one country on one AI system, and did not collect race or ethnicity data, so its fairness across patient populations is untested. It shows AI augmenting expert judgement, not replacing it, a more realistic near-term picture than the fully autonomous scenarios elsewhere in this portfolio.
+I chose this over a more technical AI story because everyone recognises Duolingo and its owl mascot, which makes the discomfort of a familiar app announcing it would cut humans for AI easy to grasp. It mirrors the Week 2 workshop's benefits-versus-drawbacks framing of AI, including job losses, but shows accountability is not only a matter for autonomous weapons or hospital algorithms: ordinary consumer products raise the same "who loses out" question. Von Ahn's own admission that he "did not expect the amount of blowback" shows even AI companies can misjudge how personally people feel about being replaced.
 
 ## Artefact 3: Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain 'risk'
 
@@ -60,7 +60,7 @@ I chose this artefact because it grounds the more abstract ethical concerns rais
 
 ## References
 
-'AI-supported mammography screening results in fewer aggressive and advanced breast cancers, finds full results from first randomised controlled trial' 2026, *ecancer*, 30 January, viewed 23 July 2026, https://ecancer.org/en/news/27721-ai-supported-mammography-screening-results-in-fewer-aggressive-and-advanced-breast-cancers-finds-full-results-from-first-randomised-controlled-trial
+Braun, S 2025, 'Duolingo's CEO outlined his plan to become an 'AI-first' company. He didn't expect the human backlash that followed', *Fortune*, 9 June, viewed 23 July 2026, https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/
 
 Department of Industry, Science and Resources 2025, *Australia's AI ethics principles*, viewed 16 July 2026, https://www.industry.gov.au/publications/australias-ai-ethics-principles
 
