@@ -10,6 +10,12 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 https://www.youtube.com/watch?v=JcXKbUIebrU
 
+![Screenshot of the "What Is AI?" video by Learn Bright on YouTube](images/artefact1-video-screenshot.jpg)
+
+![Diagram comparing ANI, AGI, and ASI](images/ani-agi-asi-diagram.svg)
+
+The video frames three levels: ANI (Artificial Narrow Intelligence), task-specific AI like chatbots and recommenders, is the only one that exists today. AGI (Artificial General Intelligence) would reason across domains at human level but has not been built. ASI (Artificial Superintelligence) would exceed humans in every field and remains purely theoretical, though it is central to the AI safety debate raised later in this portfolio (see Artefact 3).
+
 ### Summary of the artefact
 
 Learn Bright (2024) produced a short explainer video that breaks artificial intelligence down into three levels: narrow AI (ANI), general AI (AGI), and superintelligence (ASI), and walks through everyday examples such as voice assistants and chatbots. The video also weighs benefits, including automating dangerous tasks, against drawbacks such as job losses and the potential for AI to be weaponised.
@@ -21,6 +27,8 @@ I chose this artefact because it matched what we covered on AI definitions in th
 ## Artefact 2: Duolingo's CEO outlined his plan to become an 'AI-first' company. He didn't expect the human backlash that followed
 
 https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/
+
+![Screenshot of the Fortune article on Duolingo's AI-first announcement](images/artefact2-duolingo-screenshot.jpg)
 
 ### Summary of the artefact
 
@@ -34,6 +42,8 @@ I chose this over a more technical AI story because everyone recognises Duolingo
 
 https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
 
+![Screenshot of the ABC News article on Anthropic and the Pentagon contract](images/artefact3-anthropic-screenshot.jpg)
+
 ### Summary of the artefact
 
 Wang (2026) covers the Trump administration ordering all US federal agencies to stop using Anthropic's AI after the company refused Pentagon contract terms that would have allowed its models to be used for autonomous weapons targeting and mass domestic surveillance, with a six-month phase-out period for departments already relying on the technology.
@@ -45,6 +55,8 @@ This links directly to the workshop's autonomous weapons discussion, where we co
 ## Artefact 4: Australia's AI Ethics Principles
 
 https://www.industry.gov.au/publications/australias-ai-ethics-principles
+
+![Screenshot of the Australian Government's AI Ethics Principles page](images/artefact4-australia-screenshot.jpg)
 
 ### Summary of the artefact
 
@@ -68,4 +80,4 @@ Galea, G 2026, *Week 2 Workshop: Artificial Intelligence*, COIT11223: ICT Ethics
 
 Learn Bright 2024, *What is AI? | Learn all about artificial intelligence*, video, YouTube, viewed 16 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU
 
-Wang, S 2026, 'Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain "risk"', *ABC News*, 27 February, viewed 16 July 2026, https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
+Wang, S 2026, 'Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain "risk"', *ABC News*, 28 February, viewed 23 July 2026, https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
