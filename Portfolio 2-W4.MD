@@ -8,8 +8,6 @@ A group of artefacts that indicate what I have learned in Week 4 of ICT Ethics a
 
 Proof of attendance at the Week 4 workshop for ICT Ethics and Governance in Society.
 
-> Note: the attendance photo is referenced above but hasn't been added to `images/` yet, pending upload.
-
 ## Artefact 1: Cornered by the UK's Demand for an Encryption Backdoor, Apple Turns Off Its Strongest Security Setting
 
 https://www.eff.org/deeplinks/2025/02/cornered-uks-demand-encryption-backdoor-apple-turns-its-strongest-security-setting
@@ -55,6 +53,8 @@ I assumed responsible disclosure was the safe, obviously ethical choice. This ca
 ## Artefact 4: Workshop Personal Reflection
 
 ![Diagram: five ethical theories applied to the same App Release Dilemma reach five different verdicts](images/artefact4-diagram.svg)
+
+![The Week 4 workshop applying Social Contract Theory to the App Release Dilemma case study](images/workshop4-classroom.jpeg)
 
 ### Summary of the artefact
 
