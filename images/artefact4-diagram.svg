@@ -1,0 +1,36 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="460" fill="#f4f6f8"/>
+    <text x="400" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Five theories, one App Release Dilemma, five verdicts</text>
+
+    <g stroke="#c5cdd3" stroke-width="2">
+          <line x1="400" y1="250" x2="400" y2="130"/>
+          <line x1="400" y1="250" x2="542" y2="203"/>
+          <line x1="400" y1="250" x2="488" y2="361"/>
+          <line x1="400" y1="250" x2="312" y2="361"/>
+          <line x1="400" y1="250" x2="257" y2="203"/>
+    </g>
+
+    <circle cx="400" cy="250" r="70" fill="#1e3a5f"/>
+    <text x="400" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">App Release</text>
+    <text x="400" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">Dilemma</text>
+
+    <rect x="330" y="80" width="140" height="50" rx="8" fill="#2a9d8f"/>
+    <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Kantianism</text>
+
+    <rect x="472" y="178" width="150" height="50" rx="8" fill="#e76f51"/>
+    <text x="547" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Act</text>
+    <text x="547" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Utilitarianism</text>
+
+    <rect x="418" y="336" width="150" height="50" rx="8" fill="#e9c46a"/>
+    <text x="493" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">Rule</text>
+    <text x="493" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">Utilitarianism</text>
+
+    <rect x="232" y="336" width="160" height="50" rx="8" fill="#8d99ae"/>
+    <text x="312" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Social Contract</text>
+    <text x="312" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Theory</text>
+
+    <rect x="167" y="178" width="150" height="50" rx="8" fill="#457b9d"/>
+    <text x="242" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Virtue Ethics</text>
+
+    <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1e3a5f">Same case, five different recommended actions</text>
+</svg>
