@@ -20,7 +20,7 @@ Klosowski and Crocker (2025) report that Apple removed Advanced Data Protection,
 
 ### Justification on why I chose the artefact
 
-I assumed backdoors were a fair trade: less privacy for more security. Kantianism from Week 4 (Galea 2026b) changed that. A backdoor treats every device as a means to a government's end, not something owed privacy in itself, and the Categorical Imperative says you cannot will that as a universal rule without breaking the right you claim to protect. I don't believe "only the guilty have something to hide" anymore.
+I assumed backdoors were a fair trade: less privacy for more security. Kantianism from Week 4 (Galea 2026b) changed that. A backdoor treats every device as a means to a government's end, not something owed privacy in itself, and the Categorical Imperative says you cannot will that as a universal rule without breaking the right you claim to protect. I don't believe "only the guilty have something to hide" anymore, and it left me more wary than reassured.
 
 ## Artefact 2: Rideshare Drivers Sue Uber Over Being Kicked Off App in New Challenge to California Law
 
@@ -34,7 +34,7 @@ Sumagaysay (2026) reports that California rideshare drivers are suing Uber for n
 
 ### Justification on why I chose the artefact
 
-This is Act and Rule Utilitarianism arguing with each other, exactly the tension Week 4 raised (Galea 2026b). Act by act, instant deactivation looks efficient. As a blanket rule, though, deactivate-first-appeal-never causes real harm at scale, since a driver with no unemployment insurance can lose their income overnight. I used to treat "the algorithm decided" as blameless. It isn't; somebody chose not to add human review.
+This is Act and Rule Utilitarianism arguing with each other, exactly the tension Week 4 raised (Galea 2026b). Act by act, instant deactivation looks efficient. As a blanket rule, though, deactivate-first-appeal-never causes real harm at scale, since a driver with no unemployment insurance can lose their income overnight. I used to treat "the algorithm decided" as blameless. It isn't, and that left me frustrated: somebody chose not to add human review.
 
 ## Artefact 3: German IT Consultant Fined Thousands for Reporting Security Failing
 
@@ -48,7 +48,7 @@ Beek (2024) reports that German contractor Hendrik H. was fined €3,000 after d
 
 ### Justification on why I chose the artefact
 
-I assumed responsible disclosure was the safe, obviously ethical choice. This case fits Virtue Ethics from Week 4 (Galea 2026b) instead: Hendrik H. showed the honesty and care the theory prizes and was punished anyway, while the company that exposed the data faced no equivalent consequence. "Ethical hacker" now looks less like a compliment and more like a legal bet.
+I assumed responsible disclosure was the safe, obviously ethical choice. This case fits Virtue Ethics from Week 4 (Galea 2026b) instead: Hendrik H. showed the honesty and care the theory prizes and was punished anyway, while the company that exposed the data faced no equivalent consequence. It left me unsettled: "ethical hacker" now looks less like a compliment and more like a legal bet.
 
 ## Artefact 4: Workshop Personal Reflection
 
@@ -58,11 +58,11 @@ I assumed responsible disclosure was the safe, obviously ethical choice. This ca
 
 ### Summary of the artefact
 
-In the Week 4 workshop we applied Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics to the same App Release Dilemma case study, compared the theories directly, and discussed the morality of breaking the law (Galea 2026b).
+In the Week 4 workshop we applied Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics to the same App Release Dilemma case study, compared the verdicts, and discussed whether breaking the law is ever justified (Galea 2026b).
 
 ### Justification on why I chose the artefact
 
-I assumed ethical theories were interchangeable routes to the same "obviously right" answer, so running one scenario through five felt redundant going in. Getting a different verdict from each theory is what made Week 4 land for me: they weigh completely different things, intention, outcome, character, consent, and can genuinely conflict. It also brought back Week 1's question of why ICT needs governance (Galea 2026a). It has changed how I read tech ethics news: I now ask which theory a company is implicitly using before deciding if I agree.
+The idea that stood out most was the App Release Dilemma: a software engineer deciding whether to ship an app with known drawbacks. I raised in class that the engineer should communicate the risks honestly to investors and customers alike and treat a later, safer release as the respectable call, since it protects the people who trust the product and earns their respect. Before Week 4 I assumed the five ethical theories were interchangeable routes to one "right" answer; watching each reach a different verdict on the same case, weighing intention, outcome, character and consent differently, changed that. It also revisited Week 1's question of why ICT needs governance (Galea 2026a). The discussion left me feeling more responsible than certain: I now ask which theory a company is implicitly using before judging its decisions.
 
 ## AI usage statement
 
