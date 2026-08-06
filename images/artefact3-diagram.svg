@@ -1,0 +1,28 @@
+<svg viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="420" fill="#f4f6f8"/>
+    <text x="400" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Virtue Ethics: honesty punished, negligence not</text>
+
+    <rect x="60" y="80" width="220" height="70" rx="8" fill="#2a9d8f"/>
+    <text x="170" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Hendrik H.</text>
+    <text x="170" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">reports the flaw honestly</text>
+
+    <line x1="290" y1="115" x2="380" y2="115" stroke="#3d5a73" stroke-width="3"/>
+    <polygon points="380,107 400,115 380,123" fill="#3d5a73"/>
+
+    <rect x="410" y="80" width="220" height="70" rx="8" fill="#e76f51"/>
+    <text x="520" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Criminal complaint,</text>
+    <text x="520" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">3,000 euro fine, convicted</text>
+
+    <rect x="60" y="230" width="220" height="70" rx="8" fill="#8d99ae"/>
+    <text x="170" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Modern Solution GmbH</text>
+    <text x="170" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">left password in plain text</text>
+
+    <line x1="290" y1="265" x2="380" y2="265" stroke="#3d5a73" stroke-width="3"/>
+    <polygon points="380,257 400,265 380,273" fill="#3d5a73"/>
+
+    <rect x="410" y="230" width="220" height="70" rx="8" fill="#c5cdd3"/>
+    <text x="520" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a5f">700,000 records</text>
+    <text x="520" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a5f">exposed, no penalty</text>
+
+    <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1e3a5f">Good character (honesty, care) was punished; negligence was not</text>
+</svg>
