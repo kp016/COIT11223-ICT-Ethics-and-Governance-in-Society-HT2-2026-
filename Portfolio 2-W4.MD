@@ -1,6 +1,6 @@
 # COIT11223 e-portfolio 2: Ethical Theory
 
-A group of artefacts that indicate what I have learned in Week 4 of ICT Ethics and Governance in Society. Three artefacts are unique real-world ICT dilemmas, each connected to a different ethical theory from the unit; the fourth is a personal reflection on the Week 4 workshop itself.
+Four artefacts showing what I learned in Week 4 of ICT Ethics and Governance in Society: three real-world ICT dilemmas, each tied to a different ethical theory, and a personal reflection on the workshop itself.
 
 ## Workshop 4 attendance
 
@@ -16,11 +16,11 @@ https://www.eff.org/deeplinks/2025/02/cornered-uks-demand-encryption-backdoor-ap
 
 ### Summary of the artefact
 
-Klosowski and Crocker (2025) report that Apple removed Advanced Data Protection, its end-to-end iCloud encryption, from all UK users after the UK government secretly ordered a backdoor under the Investigatory Powers Act. Complying would have exposed Apple users everywhere to greater hacking and fraud risk. Apple is now challenging a second UK order in court.
+Klosowski and Crocker (2025) report Apple removed Advanced Data Protection, its iCloud encryption, from UK users after the government ordered a backdoor under the Investigatory Powers Act, exposing users everywhere to greater risk; Apple is now challenging a second order in court.
 
 ### Justification on why I chose the artefact
 
-I assumed backdoors were a fair trade: less privacy for more security. Kantianism from Week 4 (Galea 2026b) changed that. A backdoor treats every device as a means to a government's end, not something owed privacy in itself, and the Categorical Imperative says you cannot will that as a universal rule without breaking the right you claim to protect. I don't believe "only the guilty have something to hide" anymore, and it left me more wary than reassured.
+I assumed backdoors were a fair trade: less privacy for more security. Kantianism from Week 4 (Galea 2026b) changed that. A backdoor treats every device as a means to a government's end, not something owed privacy in itself, and you cannot will that without breaking the right it claims to protect. I don't believe "only the guilty have something to hide" anymore, and it left me wary.
 
 ## Artefact 2: Rideshare Drivers Sue Uber Over Being Kicked Off App in New Challenge to California Law
 
@@ -30,11 +30,11 @@ https://calmatters.org/economy/2026/04/uber-proposition22-lawsuit/
 
 ### Summary of the artefact
 
-Sumagaysay (2026) reports that California rideshare drivers are suing Uber for never building the appeals process it promised under Proposition 22. Drivers describe being locked out by an algorithm with no reason given, then routed through scripted, overseas support. One driver said his deactivation left him at risk of homelessness.
+Sumagaysay (2026) reports that California rideshare drivers are suing Uber for never building the appeals process promised under Proposition 22. Drivers describe being locked out by an algorithm with no reason given; one driver said his deactivation left him at risk of homelessness.
 
 ### Justification on why I chose the artefact
 
-This is Act and Rule Utilitarianism arguing with each other, exactly the tension Week 4 raised (Galea 2026b). Act by act, instant deactivation looks efficient. As a blanket rule, though, deactivate-first-appeal-never causes real harm at scale, since a driver with no unemployment insurance can lose their income overnight. I used to treat "the algorithm decided" as blameless. It isn't, and that left me frustrated: somebody chose not to add human review.
+This is Act and Rule Utilitarianism arguing with each other, the tension Week 4 raised (Galea 2026b). Instant deactivation looks efficient act by act; as a blanket rule, though, deactivate-first-appeal-never causes real harm, since a driver can lose income overnight. I used to treat "the algorithm decided" as blameless. It isn't: somebody chose not to add human review.
 
 ## Artefact 3: German IT Consultant Fined Thousands for Reporting Security Failing
 
@@ -44,11 +44,11 @@ https://www.darkreading.com/remote-workforce/german-it-consultant-charged-in-cou
 
 ### Summary of the artefact
 
-Beek (2024) reports that German contractor Hendrik H. was fined €3,000 after discovering that Modern Solution GmbH had stored a database password in plain text, exposing nearly 700,000 customers' data. He reported the flaw; the company accused him of insider access and filed a criminal complaint. A German court found him guilty, and he planned to appeal.
+Beek (2024) reports that German contractor Hendrik H. was fined €3,000 after discovering Modern Solution GmbH had stored a database password in plain text, exposing nearly 700,000 customers' data. He reported the flaw; the company accused him of insider access, filed a criminal complaint, and he was found guilty.
 
 ### Justification on why I chose the artefact
 
-I assumed responsible disclosure was the safe, obviously ethical choice. This case fits Virtue Ethics from Week 4 (Galea 2026b) instead: Hendrik H. showed the honesty and care the theory prizes and was punished anyway, while the company that exposed the data faced no equivalent consequence. It left me unsettled: "ethical hacker" now looks less like a compliment and more like a legal bet.
+I assumed responsible disclosure was the safe, ethical choice. This fits Virtue Ethics from Week 4 (Galea 2026b) instead: Hendrik H. showed the honesty the theory prizes and was punished anyway, while the company that exposed the data faced no consequence. It left me unsettled: "ethical hacker" now looks less like a compliment and more like a legal bet.
 
 ## Artefact 4: Workshop Personal Reflection
 
@@ -62,7 +62,7 @@ In the Week 4 workshop we applied Kantianism, Act Utilitarianism, Rule Utilitari
 
 ### Justification on why I chose the artefact
 
-The idea that stood out most was the App Release Dilemma: a software engineer deciding whether to ship an app with known drawbacks. I raised in class that the engineer should communicate the risks honestly to investors and customers alike and treat a later, safer release as the respectable call, since it protects the people who trust the product and earns their respect. Before Week 4 I assumed the five ethical theories were interchangeable routes to one "right" answer; watching each reach a different verdict on the same case, weighing intention, outcome, character and consent differently, changed that. It also revisited Week 1's question of why ICT needs governance (Galea 2026a). The discussion left me feeling more responsible than certain: I now ask which theory a company is implicitly using before judging its decisions.
+The idea that stood out most was the App Release Dilemma: a software engineer deciding whether to ship an app with known drawbacks. I raised in class that the engineer should communicate the risks honestly to investors and customers alike and treat a later, safer release as the respectable call, since it protects the people who trust the product and earns their respect. Before Week 4 I assumed the five theories were interchangeable routes to one "right" answer; watching each reach a different verdict on the same case, weighing intention, outcome, character and consent differently, changed that. It also revisited Week 1's question of why ICT needs governance (Galea 2026a). The discussion left me feeling more responsible than certain: I now ask which theory a company is implicitly using before judging its decisions.
 
 ## AI usage statement
 
