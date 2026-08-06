@@ -14,7 +14,7 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 | e-Portfolio | Topic | Due date | Status |
 |---|---|---|---|
 | 1 | Artificial Intelligence | 26 July | Submitted |
-| 2 | Ethical Theory | 9 August | Pending |
+| 2 | Ethical Theory | 9 August | Submitted |
 | 3 | Intellectual Property | 6 September | Pending |
 | 4 | Censorship and Government | 20 September | Pending |
 
@@ -22,8 +22,9 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 
 ```
 .
-|-- Portfolio 1-W2.MD   -> e-Portfolio 1: Artificial Intelligence
-`-- images/              -> workshop attendance photo and artefact diagrams
+|-- Portfolio 1-W2.MD  -> e-Portfolio 1: Artificial Intelligence
+|-- Portfolio 2-W4.MD  -> e-Portfolio 2: Ethical Theory
+`-- images/            -> workshop attendance photos and artefact diagrams
 ```
 
 ## e-Portfolio 1: Artificial Intelligence
@@ -40,6 +41,20 @@ Four artefacts collected during Week 2, each with a summary, a justification for
 
 Also included: photographic evidence of Week 2 workshop attendance.
 
+## e-Portfolio 2: Ethical Theory
+
+Four artefacts from Week 4. Three are real-world ICT dilemmas, each examined through a different ethical theory from the unit; the fourth is a personal reflection on the workshop's case study and theory comparison.
+
+**Artefact 1:** Blog article - the Electronic Frontier Foundation on Apple withdrawing UK encryption protections after a government backdoor order, examined through Kantianism.
+
+**Artefact 2:** News article - CalMatters' coverage of California rideshare drivers suing Uber over algorithmic deactivations, examined through Act and Rule Utilitarianism.
+
+**Artefact 3:** News article - Dark Reading's report on a German IT consultant fined for responsibly disclosing a data exposure, examined through Virtue Ethics.
+
+**Artefact 4:** Personal reflection on the Week 4 workshop's App Release Dilemma case study and the comparison across all five ethical theories.
+
+Also included: photographic evidence of Week 4 workshop attendance.
+
 ## Referencing
 
 All sources are cited using CQUniversity's Harvard referencing style, with a full reference list at the end of each portfolio file.
@@ -48,6 +63,8 @@ All sources are cited using CQUniversity's Harvard referencing style, with a ful
 
 An AI usage statement is included at the end of each e-portfolio file, disclosing where AI tools assisted with research and citation checking. Summaries, justifications, and reflections were written independently.
 
-## Read the portfolio
+## Read the portfolios
 
 [Portfolio 1-W2.MD](./Portfolio%201-W2.MD)
+
+[Portfolio 2-W4.MD](./Portfolio%202-W4.MD)
