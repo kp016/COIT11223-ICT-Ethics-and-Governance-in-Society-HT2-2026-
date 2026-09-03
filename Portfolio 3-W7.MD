@@ -18,7 +18,7 @@ Hirschfeld (2026) reports that Hachette Book Group, Cengage Learning, Elsevier, 
 
 ### Justification on why I chose the artefact
 
-I picked this over a generic AI-copyright story because it puts a textbook publisher, not just a novelist, on the plaintiff side. That matches Week 7's point that copyright protects the *expression* of a literary work automatically on creation, computer programs and databases included (Galea 2026), and a textbook is exactly that kind of protected expression. I used to think AI training on scraped text was a grey area technology hadn't caught up to legally. Seeing a company's own lawyers privately call it "highly problematic" before doing it anyway reframed that for me: this isn't unsettled law being tested in good faith, it's a calculated bet that litigation is cheaper than licensing.
+I picked this over a generic AI-copyright story because a textbook publisher is the plaintiff here, not just a novelist, and that lines up with Week 7's point that copyright protects a work's expression automatically on creation, computer programs and databases included (Galea 2026). I'd assumed AI training on scraped text was a grey area the law hadn't caught up to yet. Then I read that Google's own lawyers called it "highly problematic" internally before it happened anyway, and that assumption fell apart, that's not an unclear law being tested in good faith, it's a company deciding litigation is cheaper than licensing. It also connects to the ownership discussion in Artefact 4: if a company can knowingly take that risk with someone else's work and still keep the trained model, "who owns the output" feels secondary to who got to make that call at all.
 
 ## Artefact 2: Patent fight becomes part of U.S.-China AI security debate
 
@@ -30,7 +30,7 @@ Davies (2026) covers how U.S. patent system reform has become entangled with AI 
 
 ### Justification on why I chose the artefact
 
-Week 7 framed patents as a limited-time compromise: protection for inventors so society still ends up benefiting from public disclosure (Galea 2026). This artefact shows that compromise being renegotiated for strategic reasons rather than the original public-benefit logic. I hadn't considered that weakening patent protection to help small inventors domestically could, at a national level, read as a self-inflicted disadvantage in an AI arms race. It left me less sure there is a single "correct" strength for patent rights. The right balance seems to depend entirely on what a country is optimising for, innovation access at home or competitive advantage abroad.
+Week 7 framed patents as a compromise, protection for inventors so society still benefits once an invention is eventually public (Galea 2026). This artefact shows that compromise being renegotiated for a different reason entirely, national competitiveness, not public benefit. My first reaction was that weakening patent protection to help small inventors sounded like a clearly good, pro-inventor move. Reading further complicated that: at a national level it can read as self-inflicted disadvantage against a competitor filing at a faster rate. I'm still not sure which side is right, and I don't think there's one "correct" strength for patent rights independent of what a country is actually protecting, its inventors, or its global position. Those aren't always the same goal.
 
 ## Artefact 3: Bridging the global gap in access to essential medicines
 
@@ -42,19 +42,17 @@ Fyfe (2025), writing for the UN Human Rights Office, reports that two billion pe
 
 ### Justification on why I chose the artefact
 
-I chose this deliberately over another AI story to test the "limited-time compromise" idea from Week 7 (Galea 2026) against people, not products. The workshop's justification for IP protection is that society benefits when inventions eventually reach the public domain. For a two-billion-person gap in medicine access, that "eventually" is doing a lot of quiet harm in the meantime. This is the artefact in this portfolio that isn't really about technology at all, it's about whose life a patent term is allowed to cost, and it made the abstract "benefits vs limits" slide from Week 7 feel a lot less abstract.
+I chose this deliberately over another AI story, to test the "limited-time compromise" idea from Week 7 (Galea 2026) against people instead of products. The workshop's justification for IP protection is that society benefits once inventions eventually reach the public domain. For two billion people without access to essential medicines, that "eventually" is doing quiet damage the whole time, potentially someone's whole life. This is the one artefact here that isn't really about technology, it's about whose life a patent term is allowed to cost, and reading it against Artefact 4's question of who deserves ownership and reward made me realise the same tension runs under both: protection is supposed to reward whoever creates value, but it rarely asks what that protection costs everyone else while it runs.
 
 ## Artefact 4: Workshop Personal Reflection
 
-*(placeholder — waiting on Kenil's notes from the actual Week 7 workshop discussion to fill this in properly: which example the lecturer worked through in detail, what was said, and what Kenil's own take was in the room)*
-
 ### Summary of the artefact
 
-TODO once Kenil confirms what happened in the workshop — candidates flagged from the slide deck: the monkey selfie case and the AI-authorship question it sets up, or the "who's responsible when a smart assistant auto-records something for you" discussion on algorithmic playback.
+The Week 7 workshop opened with the monkey selfie case: does the monkey who pressed the shutter own the photo, or the photographer who owns the camera and set up the shot? The discussion moved from there into AI, asking the same ownership question about AI-generated work: does the person who wrote the prompt own the output, or does the company running the data centres that generated it? Galea (2026) noted there is no dedicated AI copyright law yet, so AI-generated work currently falls outside copyright protection either way, no one owns it in a legal sense.
 
 ### Justification on why I chose the artefact
 
-TODO — needs Kenil's actual reaction/position from the live discussion, in his own words, not a generic summary of the slide.
+My own take, and the part I kept turning over after class, is about accountability. If something goes wrong because of how someone prompted an AI, that person is the one held responsible, not the company that built the model. If responsibility for a bad outcome sits with the prompter, credit for a good one should sit there too, since what's being rewarded is the idea and the intent behind the prompt, not the infrastructure that ran it. I don't think that holds all the way through, though: the idea couldn't have existed without the company's compute providing the means to execute it, so in a legal sense the company probably deserves a share, a royalty or a partial benefit, not the whole product and not nothing either. That connects to something we covered later in the same workshop, the Nike logo example, where seeing the logo makes you think of the company and the shoe before anything else. I think a watermark on AI output works the same way: a watermark, like the one NotebookLM puts on generated slides or videos, signals the brand and flags that AI was involved, so a good output reflects well on the company and a bad one reflects badly on it. But that's a branding effect, not an ownership claim. Ownership of what was actually made should still sit with the person who created it.
 
 ## AI usage statement
 
