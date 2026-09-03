@@ -20,17 +20,17 @@ According to Hirschfeld (2026), Google is facing a federal lawsuit brought by Ha
 
 What made me choose this over a generic AI-copyright story is that the plaintiff here is a textbook publisher, not just a novelist, which ties directly into Week 7's point that copyright covers a work's expression the moment it's created, computer programs and databases included (Galea 2026). Going in, I assumed AI training on scraped text sat in a grey area the law simply hadn't caught up with yet. That assumption didn't survive reading that Google's own lawyers had internally called the practice "highly problematic" before it went ahead regardless. This isn't an unsettled law being tested in good faith; it's a company weighing litigation against licensing and picking the cheaper option. It also feeds into the ownership question raised in Artefact 4: once a company can knowingly take that kind of risk with someone else's work and keep the resulting model anyway, "who owns the output" starts to feel like a secondary question next to who got to make that call in the first place.
 
-## Artefact 2: Patent fight becomes part of U.S.-China AI security debate
+## Artefact 2: Federal judge rules Anthropic's AI training on books was fair use
 
-https://www.tpr.org/podcast/the-source/2026-05-25/patent-fight-becomes-part-of-u-s-china-ai-security-debate
+https://www.npr.org/2025/06/25/nx-s1-5445242/federal-rules-in-ai-companys-favor-in-landmark-copyright-infringement-lawsuit-authors-bartz-graeber-wallace-johnson-anthropic
 
 ### Summary of the artefact
 
-Davies (2026) traces how efforts to reform the U.S. patent system have become caught up in AI competition and national security concerns. Randy Landreneau of U.S. Inventor contends that rulings from the Patent Trial and Appeal Board have weakened patent reliability and made it harder for small inventors to defend their work, which in turn discourages investment; meanwhile, WIPO figures show Chinese inventors filing more than 38,000 generative AI patent families between 2014 and 2023, ahead of the U.S. pace. The National Security Commission on Artificial Intelligence has warned that this gap leaves the U.S. underprepared as AI takes on a bigger role in military planning and cyber defence.
+Veltman (2025), writing for NPR, reports that authors Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sued Anthropic, alleging the company trained its Claude AI models on millions of copyrighted books without permission. Senior US District Judge William Alsup ruled that training Claude on books Anthropic had legally purchased was fair use, calling it "exceedingly transformative." He drew a sharp line, though, at books Anthropic had downloaded for free from pirate sites: that conduct is not shielded by fair use and is proceeding to a December trial, with statutory damages potentially reaching $150,000 per pirated work across millions of titles.
 
 ### Justification on why I chose the artefact
 
-Week 7 presented patents as a kind of compromise: protection for inventors on the understanding that society benefits once the invention eventually becomes public (Galea 2026). What this artefact shows is that same compromise being renegotiated for an entirely different reason: national competitiveness rather than public benefit. My first instinct was that easing patent protection to support small inventors was a straightforwardly good, pro-inventor move. Reading further muddied that view: at a national scale, it can look like self-inflicted disadvantage against a rival filing patents at a faster clip. I still don't know which side has the stronger case, and I'm not convinced there's one "correct" level of patent strength that holds regardless of what a country is actually trying to protect: its inventors, or its standing globally. Those two things don't always point the same way.
+I chose this because it's the first real court ruling to test Week 7's fair use four-factor doctrine against actual AI training practice, rather than staying at the level of policy debate. Going in, I expected the ruling to land one of two ways: either training AI on books counts as fair use, or it doesn't. Instead the judgment split cleanly along how the books were obtained: transformative use was allowed for the copies Anthropic had actually purchased, but flatly rejected for the ones pulled from pirate sites. That changed how I read Artefact 1. Google's case involves books sourced through Google Books "alongside web-scraped and pirated material" (Hirschfeld 2026), and this ruling suggests its defence might survive for one slice of that and collapse for the other. Fair use, in other words, is not a single yes-or-no answer to "can AI train on copyrighted work": it is a factor-by-factor test that can rule in a company's favour on one count and against it on another, inside the same case.
 
 ## Artefact 3: Bridging the global gap in access to essential medicines
 
@@ -60,10 +60,10 @@ I used an AI tool to help research candidate artefacts on the intellectual prope
 
 ## References
 
-Davies, DM 2026, 'Patent fight becomes part of U.S.-China AI security debate', *Texas Public Radio*, 25 May, viewed 3 September 2026, https://www.tpr.org/podcast/the-source/2026-05-25/patent-fight-becomes-part-of-u-s-china-ai-security-debate
-
 Fyfe, D 2025, 'Bridging the global gap in access to essential medicines', *OHCHR*, 17 July, viewed 3 September 2026, https://www.ohchr.org/en/stories/2025/07/bridging-global-gap-access-essential-medicines
 
 Galea, G 2026, 'Week 7 workshop: intellectual property', PowerPoint presentation, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 3 September 2026, http://moodle.cqu.edu.au/
 
 Hirschfeld, A 2026, 'Authors, publishers sue Google over alleged AI copyright infringement', *Al Jazeera*, 15 July, viewed 3 September 2026, https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement
+
+Veltman, C 2025, 'Federal judge rules in AI company Anthropic's favor in landmark copyright infringement lawsuit brought by authors', *NPR*, 25 June, viewed 3 September 2026, https://www.npr.org/2025/06/25/nx-s1-5445242/federal-rules-in-ai-companys-favor-in-landmark-copyright-infringement-lawsuit-authors-bartz-graeber-wallace-johnson-anthropic
