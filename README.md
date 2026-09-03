@@ -15,7 +15,7 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 |---|---|---|---|
 | 1 | Artificial Intelligence | 26 July | Submitted |
 | 2 | Ethical Theory | 9 August | Submitted |
-| 3 | Intellectual Property | 6 September | Pending |
+| 3 | Intellectual Property | 4 September | Pending |
 | 4 | Censorship and Government | 20 September | Pending |
 
 ## What's in here
@@ -24,6 +24,7 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 .
 |-- Portfolio 1-W2.MD  -> e-Portfolio 1: Artificial Intelligence
 |-- Portfolio 2-W4.MD  -> e-Portfolio 2: Ethical Theory
+|-- Portfolio 3-W7.MD  -> e-Portfolio 3: Intellectual Property
 `-- images/            -> workshop attendance photos and artefact diagrams
 ```
 
@@ -55,6 +56,20 @@ Four artefacts from Week 4. Three are real-world ICT dilemmas, each examined thr
 
 Also included: photographic evidence of Week 4 workshop attendance.
 
+## e-Portfolio 3: Intellectual Property
+
+Four artefacts from Week 7. Three are real-world IP disputes spanning education, defence, and healthcare; the fourth is a personal reflection on the in-class workshop discussion.
+
+**Artefact 1:** News article - Al Jazeera's report on Hachette, Cengage, Elsevier and author Scott Turow suing Google over Gemini's alleged use of copyrighted books and educational works.
+
+**Artefact 2:** News article - Texas Public Radio's coverage of US patent reform becoming entangled with the US-China AI security competition.
+
+**Artefact 3:** Government/NGO publication - the UN Human Rights Office on patent-driven pricing leaving two billion people without access to essential medicines.
+
+**Artefact 4:** Personal reflection on the Week 7 workshop's in-class discussion.
+
+Also included: photographic evidence of Week 7 workshop attendance.
+
 ## Referencing
 
 All sources are cited using CQUniversity's Harvard referencing style, with a full reference list at the end of each portfolio file.
@@ -68,3 +83,5 @@ An AI usage statement is included at the end of each e-portfolio file, disclosin
 [Portfolio 1-W2.MD](./Portfolio%201-W2.MD)
 
 [Portfolio 2-W4.MD](./Portfolio%202-W4.MD)
+
+[Portfolio 3-W7.MD](./Portfolio%203-W7.MD)
