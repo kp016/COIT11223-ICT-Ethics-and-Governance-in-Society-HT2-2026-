@@ -58,11 +58,11 @@ Also included: photographic evidence of Week 4 workshop attendance.
 
 ## e-Portfolio 3: Intellectual Property
 
-Four artefacts from Week 7. Three are real-world IP disputes spanning education, defence, and healthcare; the fourth is a personal reflection on the in-class workshop discussion.
+Four artefacts from Week 7. Three are real-world IP disputes spanning education, AI copyright doctrine, and healthcare; the fourth is a personal reflection on the in-class workshop discussion.
 
 **Artefact 1:** News article - Al Jazeera's report on Hachette, Cengage, Elsevier and author Scott Turow suing Google over Gemini's alleged use of copyrighted books and educational works.
 
-**Artefact 2:** News article - Texas Public Radio's coverage of US patent reform becoming entangled with the US-China AI security competition.
+**Artefact 2:** News article - NPR's coverage of the Bartz v. Anthropic ruling, where a federal judge found training Claude on legally purchased books was fair use but rejected that defence for pirated copies.
 
 **Artefact 3:** Government/NGO publication - the UN Human Rights Office on patent-driven pricing leaving two billion people without access to essential medicines.
 
