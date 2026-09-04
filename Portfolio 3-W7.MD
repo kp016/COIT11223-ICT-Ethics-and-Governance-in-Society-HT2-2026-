@@ -48,7 +48,7 @@ I deliberately chose this over another AI story so I could test the "limited-tim
 
 ### Summary of the artefact
 
-The Week 7 workshop kicked off with the monkey selfie case: does ownership of the photo belong to the monkey who pressed the shutter, or the photographer who owned the camera and set up the shot? From there the discussion turned to AI and asked the same question in a new form: does the person who wrote the prompt own the resulting output, or does the company running the data centres that generated it? Galea (2026) pointed out that no dedicated AI copyright law exists yet, so AI-generated work currently sits outside copyright protection altogether, meaning no one owns it in a legal sense.
+The Week 7 workshop kicked off with the monkey selfie case: does ownership of the photo belong to the monkey who pressed the shutter, or the photographer who owned the camera and set up the shot? From there the discussion turned to AI and asked the same question in a new form: does the person who wrote the prompt own the resulting output, or does the company running the data centres that generated it? The professor  pointed out that no dedicated AI copyright law exists yet, so AI-generated work currently sits outside copyright protection altogether, meaning no one owns it in a legal sense.
 
 ### Justification on why I chose the artefact
 
