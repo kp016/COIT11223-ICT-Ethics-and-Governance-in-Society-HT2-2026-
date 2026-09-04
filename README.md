@@ -15,7 +15,7 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 |---|---|---|---|
 | 1 | Artificial Intelligence | 26 July | Submitted |
 | 2 | Ethical Theory | 9 August | Submitted |
-| 3 | Intellectual Property | 4 September | Pending |
+| 3 | Intellectual Property | 4 September | Submitted |
 | 4 | Censorship and Government | 20 September | Pending |
 
 ## What's in here
