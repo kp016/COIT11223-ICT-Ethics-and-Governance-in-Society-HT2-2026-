@@ -1,0 +1,43 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="460" fill="#f4f6f8"/>
+  <text x="400" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Nepal 2025: censorship sparks unrest</text>
+
+  <!-- timeline line -->
+  <line x1="70" y1="230" x2="730" y2="230" stroke="#94a3b8" stroke-width="3"/>
+
+  <!-- node 1 -->
+  <g>
+    <circle cx="120" cy="230" r="14" fill="#2a9d8f"/>
+    <text x="120" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">3 Sept</text>
+    <text x="120" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">Registration</text>
+    <text x="120" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">deadline missed</text>
+  </g>
+
+  <!-- node 2 -->
+  <g>
+    <circle cx="290" cy="230" r="14" fill="#e9c46a"/>
+    <text x="290" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">4 Sept</text>
+    <text x="290" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">26 platforms</text>
+    <text x="290" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">blocked</text>
+  </g>
+
+  <!-- node 3 -->
+  <g>
+    <circle cx="500" cy="230" r="14" fill="#e76f51"/>
+    <text x="500" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">8 Sept</text>
+    <text x="500" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">Gen Z protests,</text>
+    <text x="500" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">19 killed</text>
+  </g>
+
+  <!-- node 4 -->
+  <g>
+    <circle cx="680" cy="230" r="14" fill="#2a9d8f"/>
+    <text x="680" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">Days later</text>
+    <text x="680" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">Ban</text>
+    <text x="680" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">lifted</text>
+  </g>
+
+  <rect x="80" y="360" width="640" height="60" rx="8" fill="#1e3a5f"/>
+  <text x="400" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">A platform-registration order became the spark for a much larger</text>
+  <text x="400" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">political crisis, not just an information-control dispute</text>
+</svg>
