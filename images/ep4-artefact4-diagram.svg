@@ -1,0 +1,37 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="460" fill="#f4f6f8"/>
+  <text x="400" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Who should decide? One owner, or a consortium blockchain</text>
+
+  <!-- Left: single authority -->
+  <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#e76f51">Single central authority</text>
+  <circle cx="200" cy="170" r="52" fill="#e76f51"/>
+  <text x="200" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">One</text>
+  <text x="200" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">decider</text>
+  <polygon points="200,232 190,262 210,262" fill="#3d5a73"/>
+  <rect x="90" y="270" width="220" height="56" rx="10" fill="#ffffff" stroke="#e76f51" stroke-width="2"/>
+  <text x="200" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">If it is corrupt or biased,</text>
+  <text x="200" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">every decision inherits that bias</text>
+
+  <line x1="400" y1="80" x2="400" y2="330" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Right: consortium blockchain -->
+  <text x="600" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2a9d8f">Consortium blockchain</text>
+  <circle cx="530" cy="150" r="30" fill="#2a9d8f"/>
+  <circle cx="600" cy="196" r="30" fill="#2a9d8f"/>
+  <circle cx="670" cy="150" r="30" fill="#2a9d8f"/>
+  <text x="530" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ffffff">node A</text>
+  <text x="600" y="201" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ffffff">node B</text>
+  <text x="670" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#ffffff">node C</text>
+  <line x1="530" y1="150" x2="600" y2="196" stroke="#0f766e" stroke-width="2"/>
+  <line x1="670" y1="150" x2="600" y2="196" stroke="#0f766e" stroke-width="2"/>
+  <line x1="530" y1="150" x2="670" y2="150" stroke="#0f766e" stroke-width="2"/>
+  <text x="600" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">different ideologies, one shared ledger</text>
+  <polygon points="600,250 590,266 610,266" fill="#3d5a73"/>
+  <rect x="490" y="270" width="220" height="56" rx="10" fill="#ffffff" stroke="#2a9d8f" stroke-width="2"/>
+  <text x="600" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">A takedown proceeds only</text>
+  <text x="600" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">when the members agree</text>
+
+  <rect x="80" y="360" width="640" height="60" rx="8" fill="#1e3a5f"/>
+  <text x="400" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">Cloudflare acted on reputation, not belief. My question is</text>
+  <text x="400" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">whether any single owner should hold that decision at all</text>
+</svg>
