@@ -1,0 +1,35 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="460" fill="#f4f6f8"/>
+  <text x="400" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">One company agreed. The content stayed up.</text>
+
+  <!-- government demand -->
+  <rect x="300" y="75" width="200" height="56" rx="10" fill="#e9c46a"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a5f">Government demand</text>
+  <text x="400" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4a3b0a">restrict these accounts</text>
+
+  <polygon points="400,140 390,166 410,166" fill="#3d5a73"/>
+
+  <!-- shared protocol -->
+  <rect x="230" y="172" width="340" height="52" rx="10" fill="#1e3a5f"/>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">One shared open protocol</text>
+  <text x="400" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#cbd5e1">the posts live here, not in any one app</text>
+
+  <line x1="330" y1="230" x2="200" y2="275" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="470" y1="230" x2="600" y2="275" stroke="#94a3b8" stroke-width="2"/>
+
+  <!-- official app -->
+  <rect x="90" y="280" width="220" height="86" rx="10" fill="#e76f51"/>
+  <text x="200" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">The official app</text>
+  <text x="200" y="329" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff1ee">applies the country filter</text>
+  <text x="200" y="351" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff1ee">accounts hidden in Turkey</text>
+
+  <!-- third party apps -->
+  <rect x="490" y="280" width="220" height="86" rx="10" fill="#2a9d8f"/>
+  <text x="600" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Other apps, same protocol</text>
+  <text x="600" y="329" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f0fdfa">never applied that filter</text>
+  <text x="600" y="351" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f0fdfa">same posts still visible</text>
+
+  <rect x="80" y="390" width="640" height="52" rx="8" fill="#1e3a5f"/>
+  <text x="400" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Decentralising did not stop the pressure.</text>
+  <text x="400" y="431" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#cbd5e1">It only stopped one company's yes from being the final word.</text>
+</svg>
