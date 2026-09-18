@@ -36,7 +36,7 @@ Human Rights Law Centre (2024) reports on *eSafety Commissioner v X Corp*. eSafe
 
 ### Justification on why I chose the artefact
 
-The workshop used this case to ask where protecting people online turns into restricting freedom, so I wanted to see how a court answered it. I assumed removing clearly harmful content was uncontroversial, but the ruling treats the global internet as beyond any one country's reach. Censorship turned out to be a jurisdiction problem too.
+Mill allowed government intervention only to prevent harm to others, and violent footage looks like the easy case for that. I assumed it was uncontroversial. The ruling did not argue about harm at all, it argued about reach, which showed me a limit Mill never had to think about: whose harm, in whose country.
 
 ## Artefact 3: Government censorship comes to Bluesky, but not its third-party apps yet
 
@@ -66,7 +66,7 @@ What caught my eye is that the decision came down to reputation, not belief. Clo
 
 ## AI usage statement
 
-I used an AI tool to research candidate artefacts, find credible sources, check citations against CQU Harvard style, and generate the diagrams. I read those sources and wrote every summary and justification myself.
+I used an AI tool to research candidate artefacts, find credible sources, check citations against CQU Harvard style, and generate the diagrams. It also helped draft the artefact summaries and justifications, which I directed, revised and approved. The Week 9 reflection in Artefact 4 is my own argument.
 
 ## References
 
