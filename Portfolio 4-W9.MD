@@ -1,6 +1,6 @@
 # COIT11223 e-portfolio 4: Censorship and Government
 
-Four artefacts from Week 9 of ICT Ethics and Governance in Society: three real censorship disputes and a personal workshop reflection.
+Four artefacts from Week 9: three real censorship disputes and a personal workshop reflection.
 
 ## Workshop 9 attendance
 
@@ -8,7 +8,7 @@ Four artefacts from Week 9 of ICT Ethics and Governance in Society: three real c
 
 ![The Week 9 workshop in progress, showing the Cloudflare slide](images/proff.jpeg)
 
-Attendance confirmation for the Week 9 workshop. The second photo shows the Cloudflare slide that Artefact 4 reflects on.
+Week 9 attendance. The second photo shows the Cloudflare slide Artefact 4 discusses.
 
 ## Artefact 1: Six killed in Nepal amid Gen Z protests after social media ban: All to know
 
@@ -18,11 +18,11 @@ https://www.aljazeera.com/news/2025/9/8/six-killed-in-nepal-amid-gen-z-protests-
 
 ### Summary of the artefact
 
-Shamim (2025) reports that Nepal blocked 26 platforms, including Facebook and YouTube, after they missed a registration deadline, officially to curb fake accounts and cybercrime. Youth-led protests over the ban and government corruption turned deadly when police fired on crowds; at least 19 died before the ban was lifted.
+Shamim (2025) reports that Nepal blocked 26 platforms over a missed registration deadline, officially to curb fake accounts and cybercrime. Protests over the ban and corruption turned deadly when police fired on crowds, killing at least 19 before it was lifted.
 
 ### Justification on why I chose the artefact
 
-A trend exposing politicians' children living lavishly was already spreading before any of this (Dudraj 2025), and the ban arrived right after, officially over a missed deadline. That timing is hard to take at face value. It shows what centralised control looks like when the people doing the filtering have something to lose themselves, which is why I land on a consortium blockchain in Artefact 4.
+A trend exposing politicians' children living lavishly was already spreading before any of this (Dudraj 2025), and the ban arrived right after. That timing is hard to take at face value. It shows what centralised control looks like when the people doing the filtering have something to lose themselves, which is why I land on a consortium blockchain in Artefact 4.
 
 ## Artefact 2: Powers of Online Safety Act tested in Federal Court case
 
@@ -32,7 +32,7 @@ https://www.hrlc.org.au/case-summaries/2024-06-19-esafety-commissioner-v-x-corp/
 
 ### Summary of the artefact
 
-Human Rights Law Centre (2024) reports on *eSafety Commissioner v X Corp*, where eSafety wanted 65 links to graphic stabbing footage removed worldwide. X had already blocked it for Australian users, and the Federal Court ruled that was enough under the Online Safety Act, refusing a global order.
+Human Rights Law Centre (2024) reports on *eSafety Commissioner v X Corp*. eSafety wanted 65 links to graphic stabbing footage removed worldwide, but X had already blocked it for Australian users, and the Federal Court ruled that sufficient under the Online Safety Act.
 
 ### Justification on why I chose the artefact
 
@@ -46,7 +46,7 @@ https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not
 
 ### Summary of the artefact
 
-Perez (2025) reports that the Turkish government asked Bluesky to restrict accounts on national security grounds, and Bluesky agreed, hiding around 60 of them from users in Turkey. What matters is where that block sits. Bluesky's posts live on an open protocol rather than inside the company's app, and the filters hiding those accounts were applied by Bluesky's app alone. Other apps reading the same protocol never applied them, so the accounts stayed visible.
+Perez (2025) reports that Bluesky agreed to a Turkish government request, hiding around 60 accounts from users in Turkey on national security grounds. Bluesky's posts live on an open protocol, not inside its app, and the filter was applied by that app alone. Other apps reading the same protocol never applied it, so the accounts stayed visible.
 
 ### Justification on why I chose the artefact
 
@@ -58,7 +58,7 @@ I picked this because it tests the idea I land on in Artefact 4 rather than just
 
 ### Summary of the artefact
 
-One of the things the tutor put into the spotlight was the Daily Stormer case. GoDaddy and then Google both cancelled the site's domain, but Cloudflare kept it as a customer for days. What finally changed Cloudflare's mind was not the site's content: it was Daily Stormer publicly claiming that Cloudflare secretly supported their ideology, which put the company in a bad spot.
+One of the things the tutor put into the spotlight was the Daily Stormer case. GoDaddy and then Google cancelled the site's domain, but Cloudflare kept it for days. What changed Cloudflare's mind was not the content: it was Daily Stormer publicly claiming Cloudflare secretly supported their ideology, which put the company in a bad spot.
 
 ### Justification on why I chose the artefact
 
