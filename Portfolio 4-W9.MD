@@ -4,9 +4,9 @@ Four artefacts from Week 9 of ICT Ethics and Governance in Society: three real c
 
 ## Workshop 9 attendance
 
-![Workshop 9 attendance, selfie with the tutor and classmates](images/workshop9-selfie.jpg)
+![Workshop 9 attendance, selfie with the tutor and classmates](images/us%20%2B%20proff.jpeg)
 
-![The Week 9 workshop in progress, showing the Cloudflare slide](images/workshop9-classroom.jpeg)
+![The Week 9 workshop in progress, showing the Cloudflare slide](images/proff.jpeg)
 
 Attendance confirmation for the Week 9 workshop. The second photo shows the Cloudflare slide that Artefact 4 reflects on.
 
