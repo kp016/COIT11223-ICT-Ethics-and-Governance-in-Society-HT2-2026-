@@ -1,43 +1,48 @@
-<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="460" fill="#f4f6f8"/>
-  <text x="400" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">Nepal 2025: censorship sparks unrest</text>
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="esc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1c1c22"/>
+      <stop offset="0.45" stop-color="#3f2024"/>
+      <stop offset="1" stop-color="#c81e30"/>
+    </linearGradient>
+  </defs>
 
-  <!-- timeline line -->
-  <line x1="70" y1="230" x2="730" y2="230" stroke="#94a3b8" stroke-width="3"/>
+  <rect width="800" height="460" fill="#0a0a0c"/>
+  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
 
-  <!-- node 1 -->
-  <g>
-    <circle cx="120" cy="230" r="14" fill="#2a9d8f"/>
-    <text x="120" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">3 Sept</text>
-    <text x="120" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">Registration</text>
-    <text x="120" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">deadline missed</text>
-  </g>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">Nepal, September 2025</text>
+  <text x="56" y="88" fill="#8a8a94" font-size="14">A platform registration rule became the trigger for a national crisis</text>
 
-  <!-- node 2 -->
-  <g>
-    <circle cx="290" cy="230" r="14" fill="#e9c46a"/>
-    <text x="290" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">4 Sept</text>
-    <text x="290" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">26 platforms</text>
-    <text x="290" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">blocked</text>
-  </g>
+  <text x="168" y="216" text-anchor="middle" fill="#ffffff" font-size="76" font-weight="700">26</text>
+  <text x="168" y="243" text-anchor="middle" fill="#8a8a94" font-size="13" letter-spacing="1">PLATFORMS BLOCKED</text>
 
-  <!-- node 3 -->
-  <g>
-    <circle cx="500" cy="230" r="14" fill="#e76f51"/>
-    <text x="500" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">8 Sept</text>
-    <text x="500" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">Gen Z protests,</text>
-    <text x="500" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">19 killed</text>
-  </g>
+  <text x="400" y="216" text-anchor="middle" fill="#c81e30" font-size="76" font-weight="700">19</text>
+  <text x="400" y="243" text-anchor="middle" fill="#8a8a94" font-size="13" letter-spacing="1">PEOPLE KILLED</text>
 
-  <!-- node 4 -->
-  <g>
-    <circle cx="680" cy="230" r="14" fill="#2a9d8f"/>
-    <text x="680" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#1e3a5f">Days later</text>
-    <text x="680" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">Ban</text>
-    <text x="680" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3d5a73">lifted</text>
-  </g>
+  <text x="632" y="216" text-anchor="middle" fill="#ffffff" font-size="76" font-weight="700">4</text>
+  <text x="632" y="243" text-anchor="middle" fill="#8a8a94" font-size="13" letter-spacing="1">DAYS UNTIL REVERSED</text>
 
-  <rect x="80" y="360" width="640" height="60" rx="8" fill="#1e3a5f"/>
-  <text x="400" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">A platform-registration order became the spark for a much larger</text>
-  <text x="400" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">political crisis, not just an information-control dispute</text>
+  <line x1="290" y1="150" x2="290" y2="250" stroke="#2a2a32" stroke-width="1"/>
+  <line x1="510" y1="150" x2="510" y2="250" stroke="#2a2a32" stroke-width="1"/>
+
+  <rect x="56" y="300" width="688" height="10" rx="5" fill="url(#esc)"/>
+  <circle cx="70" cy="305" r="7" fill="#ffffff"/>
+  <circle cx="284" cy="305" r="7" fill="#ffffff"/>
+  <circle cx="498" cy="305" r="7" fill="#ffffff"/>
+  <circle cx="730" cy="305" r="7" fill="#c81e30"/>
+
+  <text x="70" y="338" fill="#c9c9d1" font-size="12.5">Corruption posts spread</text>
+  <text x="70" y="355" fill="#6a6a74" font-size="11.5">already circulating</text>
+
+  <text x="284" y="338" fill="#c9c9d1" font-size="12.5">Platforms blocked</text>
+  <text x="284" y="355" fill="#6a6a74" font-size="11.5">stated reason: registration</text>
+
+  <text x="498" y="338" fill="#c9c9d1" font-size="12.5">Protests, then gunfire</text>
+  <text x="498" y="355" fill="#6a6a74" font-size="11.5">8 September</text>
+
+  <text x="744" y="338" text-anchor="end" fill="#c9c9d1" font-size="12.5">Ban lifted</text>
+  <text x="744" y="355" text-anchor="end" fill="#6a6a74" font-size="11.5">after the deaths</text>
+
+  <text x="56" y="416" fill="#ffffff" font-size="15" font-weight="700">The block did not contain the story. It became the story.</text>
+  <text x="56" y="437" fill="#8a8a94" font-size="13">Central control, exercised by a government with its own conduct at stake</text>
 </svg>
