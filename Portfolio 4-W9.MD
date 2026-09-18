@@ -66,7 +66,7 @@ What caught my eye is that the decision came down to reputation, not belief. Clo
 
 ## AI usage statement
 
-I used an AI tool to research candidate artefacts, find credible sources, check citations against CQU Harvard style, and generate the diagrams. It also helped draft the artefact summaries and justifications, which I directed, revised and approved. The Week 9 reflection in Artefact 4 is my own argument.
+I used an AI tool to research candidate artefacts, find credible sources, check citations against CQU Harvard style, and generate the diagrams. I read those sources and wrote every summary and justification myself.
 
 ## References
 
