@@ -83,7 +83,7 @@ Four artefacts from Week 9. Three are real censorship disputes spanning a nation
 
 **Artefact 4:** Personal reflection on the Week 9 workshop's Daily Stormer discussion, and a consortium blockchain proposal for who should hold content decisions.
 
-Also included: photographic evidence of Week 9 workshop attendance.
+Also included: two photos from the Week 9 workshop, a group selfie with the tutor and a shot of the Cloudflare slide that Artefact 4 discusses.
 
 ## Referencing
 
