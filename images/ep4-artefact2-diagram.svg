@@ -1,30 +1,38 @@
-<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="460" fill="#f4f6f8"/>
-  <text x="400" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a5f">eSafety v X: whose internet is it?</text>
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="460" fill="#06182f"/>
+  <rect x="0" y="0" width="800" height="6" fill="#38bdf8"/>
 
-  <!-- Left: Australia only, accepted -->
-  <g transform="translate(110,80)">
-    <circle cx="90" cy="90" r="90" fill="#2a9d8f"/>
-    <text x="90" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Australia</text>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f0fdfa">geo-blocked</text>
-    <text x="90" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">Ruled sufficient</text>
-    <text x="90" y="232" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#3d5a73">"all reasonable steps"</text>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">eSafety Commissioner v X Corp</text>
+  <text x="56" y="88" fill="#7d9bbd" font-size="14">How far does one country's takedown order reach?</text>
+
+  <!-- globe -->
+  <g transform="translate(212,268)">
+    <circle r="118" fill="#0d2c52" stroke="#1d4b82" stroke-width="2"/>
+    <ellipse rx="118" ry="40" fill="none" stroke="#1d4b82" stroke-width="1.5"/>
+    <ellipse rx="118" ry="82" fill="none" stroke="#1d4b82" stroke-width="1.5"/>
+    <ellipse rx="40" ry="118" fill="none" stroke="#1d4b82" stroke-width="1.5"/>
+    <ellipse rx="82" ry="118" fill="none" stroke="#1d4b82" stroke-width="1.5"/>
+    <line x1="-118" y1="0" x2="118" y2="0" stroke="#1d4b82" stroke-width="1.5"/>
+    <line x1="0" y1="-118" x2="0" y2="118" stroke="#1d4b82" stroke-width="1.5"/>
+    <circle cx="46" cy="58" r="21" fill="#38bdf8"/>
+    <text x="46" y="63" text-anchor="middle" fill="#06182f" font-size="12" font-weight="700">AU</text>
   </g>
+  <text x="212" y="424" text-anchor="middle" fill="#7d9bbd" font-size="12.5">Only the blue area was ordered dark</text>
 
-  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#94a3b8">vs</text>
+  <!-- right column -->
+  <text x="420" y="152" fill="#5f7ea1" font-size="12" letter-spacing="1.5">THE MATERIAL</text>
+  <text x="420" y="182" fill="#ffffff" font-size="22" font-weight="700">65 links</text>
+  <text x="420" y="204" fill="#7d9bbd" font-size="13">to graphic stabbing footage</text>
 
-  <!-- Right: whole globe, rejected -->
-  <g transform="translate(500,80)">
-    <circle cx="90" cy="90" r="90" fill="#e76f51" opacity="0.9"/>
-    <ellipse cx="90" cy="90" rx="90" ry="35" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
-    <line x1="90" y1="0" x2="90" y2="180" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
-    <text x="90" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Every country</text>
-    <text x="90" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff1ee">global takedown sought</text>
-    <text x="90" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1e3a5f">Rejected</text>
-    <text x="90" y="232" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#3d5a73">by the Federal Court</text>
-  </g>
+  <rect x="420" y="232" width="324" height="70" rx="6" fill="#2a1420" stroke="#8b2f4a" stroke-width="2"/>
+  <text x="444" y="258" fill="#ff7597" font-size="13" font-weight="700">SOUGHT: removed everywhere on earth</text>
+  <text x="444" y="280" fill="#d69ab0" font-size="12.5">Refused. Comity between nations.</text>
+  <line x1="432" y1="246" x2="432" y2="288" stroke="#8b2f4a" stroke-width="4"/>
 
-  <rect x="80" y="360" width="640" height="60" rx="8" fill="#1e3a5f"/>
-  <text x="400" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">No single country gets to decide what the rest of the world's</text>
-  <text x="400" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">internet users are allowed to see</text>
+  <rect x="420" y="314" width="324" height="70" rx="6" fill="#0b2f45" stroke="#38bdf8" stroke-width="2"/>
+  <text x="444" y="340" fill="#7dd3fc" font-size="13" font-weight="700">ORDERED: geo-blocked for Australia</text>
+  <text x="444" y="362" fill="#a7cbe3" font-size="12.5">Held to be "all reasonable steps"</text>
+  <line x1="432" y1="328" x2="432" y2="370" stroke="#38bdf8" stroke-width="4"/>
+
+  <text x="420" y="424" fill="#ffffff" font-size="14.5" font-weight="700">Censorship runs into borders before it runs into ethics.</text>
 </svg>
