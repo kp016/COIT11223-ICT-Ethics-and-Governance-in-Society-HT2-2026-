@@ -2,9 +2,11 @@
 
 Kenil Patel | 12322652 | ICT Ethics and Governance in Society, Term 2 2026
 
+A collection of artefacts that demonstrate what I have learnt about the ethical and societal issues of automated decision-making (ADM) in government systems.
+
 ## Where I started
 
-Before this unit I saw ADM as a back-office upgrade. On the service desk I set up rules that blocked spam automatically, and nobody asked whether a filter rule was "ethical". I assumed government ADM worked the same way: if the code followed the rule, the decision was fair. These six artefacts trace how that view changed. They start with what ADM is, move through three Australian systems that affect welfare and disability support, and end with India and Gaza, where the stakes are food and life.
+Before this unit I saw ADM as a back-office upgrade. On the service desk I set up rules that blocked spam automatically, and nobody asked whether a filter rule was "ethical". I assumed government ADM worked the same way: if the code followed the rule, the decision was fair. These six artefacts trace how that view changed. I start with what ADM is, then look at three Australian systems that affect welfare and disability support, and finish with India and Gaza, where the decisions were about whether people ate and who was targeted in a war.
 
 | # | Artefact | Type | Where | Main unit link |
 |---|----------|------|-------|----------------|
@@ -24,13 +26,13 @@ https://doi.org/10.17645/pag.10245
 ![Diagram comparing how the US, EU and China frame public sector ADM](images/ep5-artefact1-diagram.svg)
 
 ### Summary of the artefact
-Mark and Morison (2025, p. 2) describe ADM as "any system in which decision‐making authority is partially or fully delegated to algorithms". They compare how the US, the EU and China govern ADM in the public sector and argue that each sees the problem differently: an "innovation gap" in the US, a "trust deficit" in the EU and a "stability risk" in China (Mark & Morison 2025, p. 2). Their conclusion is that all three are drifting towards putting innovation ahead of accountability (Mark & Morison 2025, p. 17).
+Mark and Morison (2025, p. 2) describe ADM as "any system in which decision-making authority is partially or fully delegated to algorithms". They compare how the US, the EU and China govern public sector ADM and argue each sees the problem differently: an "innovation gap" in the US, a "trust deficit" in the EU and a "stability risk" in China (Mark & Morison 2025, p. 2). They conclude that all three are drifting towards putting innovation ahead of accountability (Mark & Morison 2025, p. 17).
 
 ### Justification on why I chose the artefact
 I picked this article because its definition is wide enough to cover both a simple rules engine and a machine learning model, and both appear later in this portfolio. It is also the only artefact that compares whole countries, so it sets the scene before I focus on Australia.
 
 ### Reflection
-The three framings lined up with the Week 4 theories. The US "innovation gap" reads like act utilitarianism, adding up benefits case by case. The EU's focus on trust is closer to Kant, where people have rights that a calculation cannot override. China's "stability" sounds like a social contract where citizens trade some freedom for order. I learned that a country's ethical starting point, even if it is never stated, shapes the rules ICT professionals end up building systems under.
+The three framings matched the Week 4 theories better than I expected. The US "innovation gap" reads like act utilitarianism, adding up benefits case by case. The EU's focus on trust is closer to Kant, where people have rights that a calculation cannot override. China's "stability" sounds like a social contract where citizens trade some freedom for order. What I took from this is that a country's ethical starting point shapes the rules ICT professionals end up building under, even when nobody says it out loud.
 
 ---
 
@@ -44,10 +46,10 @@ https://www.abc.net.au/news/2025-08-06/commonwealth-ombudsman-finds-payment-canc
 Truu (2025) reports on a Commonwealth Ombudsman finding that the Targeted Compliance Framework, the IT system that tracks jobseekers' mutual obligations, automatically cancelled the payments of 964 people between April 2022 and July 2024. Laws passed after Robodebt changed "must cancel" to "may cancel", so a person had to consider each jobseeker's situation first. The system was never updated and kept cancelling on its own.
 
 ### Justification on why I chose the artefact
-I chose this because it is a current Australian system, not a historical one. Most people know about Robodebt, but fewer know that a similar failure happened afterwards, even with new laws in place. It proves that lessons from one scandal do not automatically reach the code.
+I chose this because it happened after Robodebt, under laws that were meant to stop it happening again. Fewer people know a similar failure happened afterwards. It shows that the lessons from one scandal do not automatically make it into the code, and that ADM can go wrong through poor maintenance, not only poor design.
 
 ### Reflection
-What struck me is that the law changed one word and the software did not. The Ombudsman said adequate care and skill were not applied (Truu 2025), which is very close to the ACS value of Competence (1.2.4) (ACS 2014). The Ombudsman's own better practice guide says automated systems must meet the same legal and fairness standards as a human decision maker (Commonwealth Ombudsman 2025). Under social contract theory, welfare is a two-way deal: jobseekers meet their obligations and the government follows its own rules. Here only one side was held to the deal. For me as a future IT worker, keeping a system in line with current law is part of the job, not something to leave to the legal team.
+What struck me is that the law changed one word and the software did not. I have seen a small version of this behind the bar. One night our happy hour button charged every drink at full price, and nobody noticed, not even the guests, until the end-of-night report showed zero happy hour drinks. A failed payment is obvious, but a system quietly doing the wrong thing sits right under your nose. The Ombudsman said adequate care and skill were not applied (Truu 2025), which is close to the ACS value of Competence (1.2.4) (ACS 2014), and its better practice guide says automated systems must meet the same legal standards as a human decision maker (Commonwealth Ombudsman 2025). Under social contract theory, welfare is a two-way deal, but here only the jobseekers were held to it. As a future IT worker, I see keeping a system in line with current law as part of my job.
 
 ---
 
@@ -61,10 +63,10 @@ https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucina
 Paoli (2025) reports that Deloitte was paid about A$440,000 to review the same Targeted Compliance Framework. A University of Sydney researcher, Chris Rudge, found that the 237-page report cited research and a book that do not exist and included a made-up quote from a Federal Court judgment. The corrected version disclosed that Azure OpenAI had been used, and Deloitte agreed to a partial refund.
 
 ### Justification on why I chose the artefact
-I chose this because it looks at the system from Artefact 2 from a different angle. The review that was meant to hold an automated system to account was itself produced with an automated tool, and nobody checked it properly before it was published on a government website.
+I chose this because it looks at the system from Artefact 2 from a different angle. The review that was meant to hold an automated system to account was itself produced with an automated tool, and nobody checked it properly before it went up on a government website. It also connects ADM to the generative AI tools I use every week.
 
 ### Reflection
-This one felt personal, because I use AI tools for study and work and I include an AI use statement in every e-portfolio. Virtue ethics asks what an honest, careful professional would do, and the answer here is to check every reference before your name goes on the report. ACS value 1.2.3 Honesty expects us not to mislead the people who rely on our work (ACS 2014). The lesson I am taking into ICT is simple: AI can help draft, but a human has to own and verify the output.
+This one felt personal. I once set up a flow where AI pulled the context and drafted my emails automatically, and one day it drafted 20 emails, all with the wrong context. I had to rewrite every one myself. It was the same problem as Deloitte's on a smaller scale: an automated tool produced work in my name, and only a human check caught it. Virtue ethics asks what an honest, careful professional would do, and the answer is to check every reference before your name goes on the report. ACS value 1.2.3 Honesty expects us not to mislead the people who rely on our work (ACS 2014). So my rule now is that AI can help me draft, but I read everything before it goes anywhere.
 
 ---
 
@@ -72,16 +74,16 @@ This one felt personal, because I use AI tools for study and work and I include 
 
 https://www.unsw.edu.au/newsroom/news/2025/10/how-people-are-assessed-for-the-ndis-is-changing-heres-what-you-need-to-know
 
-![Diagram of the NDIS assessment pipeline from a person to a budget, with the 73 percent appeal success rate](images/ep5-artefact4-diagram.svg)
+![Diagram of the NDIS assessment pipeline from a person to a budget, where 73 percent of appeals changed the decision](images/ep5-artefact4-diagram.svg)
 
 ### Summary of the artefact
 Van Toorn and Dickinson (2025) explain that from mid-2026 the NDIS will assess participants over 16 through a three-hour interview using a tool called I-CAN, which scores support needs across 12 areas of daily life. How those scores turn into a budget has not been made clear. Twelve disability organisations later warned that "computer-generated decisions also cannot explain how they reached a conclusion" (People with Disability Australia 2025).
 
 ### Justification on why I chose the artefact
-I chose this because it is happening in Australia right now, to people who depend on support for everyday life. Unlike the Targeted Compliance Framework, nobody can say yet whether it will fail, so it is a live ethical question rather than a story about the past.
+I chose this because it is happening in Australia right now, to people who depend on support for everyday life. With the Targeted Compliance Framework we already know what went wrong. Here nobody can say yet whether it will fail, so the ethical question is still open. It also adds disability, a group my other artefacts do not cover.
 
 ### Reflection
-The line that stayed with me was George Taleporos saying the NDIS "must never reduce us to data points in a secret algorithm" (Van Toorn & Dickinson 2025). That is Kant's second formulation in plain words: treat people as ends, not as inputs. In the year to June 2025, 73% of appeals against NDIA decisions changed the outcome (People with Disability Australia 2025), so decisions are already often wrong, and hiding the logic inside an algorithm makes them harder to challenge. The Privacy Act will require agencies to disclose ADM from 10 December 2026 (OAIC 2026), but disclosure is not the same as an appeal. ACS value 1.2.2 asks us to improve people's quality of life (ACS 2014). It is the same point I made about vulnerability disclosure in Assessment 1: a system nobody can examine is a system nobody should trust.
+The line that stayed with me was George Taleporos saying the NDIS "must never reduce us to data points in a secret algorithm" (Van Toorn & Dickinson 2025). That is Kant's second formulation: people are ends in themselves, never just inputs. In the year to June 2025, 73% of appeals against NDIA decisions changed the outcome (People with Disability Australia 2025). So the decisions are already often wrong, and hiding the logic inside an algorithm makes them harder to challenge. The Privacy Act will require agencies to disclose ADM from 10 December 2026 (OAIC 2026), but being told a program was used is different from being able to appeal what it decided. ACS value 1.2.2 asks us to improve people's quality of life (ACS 2014). This connects to what I argued about vulnerability disclosure in Assessment 1: if nobody outside can examine a system, nobody should fully trust it.
 
 ---
 
@@ -95,10 +97,10 @@ https://www.aljazeera.com/economy/2024/1/24/how-an-algorithm-denied-food-to-thou
 Tapasya, Sambhav and Joshi (2024) investigate Samagra Vedika, a system the Telangana state government uses to merge data from up to 30 government databases into a profile of each family. Between 2014 and 2019 the state cancelled more than 1.86 million food security cards. A 67-year-old widow, Bismillah Bee, lost her rations because the system confused her late husband with a different man who owned a car.
 
 ### Justification on why I chose the artefact
-I chose this because it shows ADM failing the poorest people over something as basic as food. It is also from India, where I grew up, which makes it the artefact I connect with most personally and gives my portfolio a view from outside Western countries.
+I chose this because it shows ADM failing the poorest people over something as basic as food. It is also from India, where I grew up, so it is the artefact I connect with most and it adds a view from outside Western countries. It also shows how merging many databases can spread small errors across a whole state.
 
 ### Reflection
-When the Supreme Court ordered a re-check, at least 7.5% of the processed rejections were overturned (Tapasya, Sambhav & Joshi 2024). Rule utilitarianism asks which general rule gives the best results over time. "Cut first and let people prove themselves later" may save money on paper, but a rule of giving notice and a human check before anyone loses food would prevent far more suffering. ACS value 1.2.1 says the public interest comes before business or sectional interests (ACS 2014). I learned that "data mismatch" sounds like a technical bug, but for a family it can mean going without food, and as an ICT professional I would treat data matching errors as a safety issue, not a minor defect.
+Back home, poorer families get rations at a cheaper price, depending on family size. I have also seen the loophole: eligibility is partly based on occupation, so some people who own farmland but are not farmers can still claim. So I understand why a state wants to check its data, but Samagra Vedika handed that check to a database match and cut people like Bismillah Bee, who really needed the rations. When the Supreme Court ordered a re-check, at least 7.5% of the processed rejections were overturned (Tapasya, Sambhav & Joshi 2024). Under rule utilitarianism, "cut first and let people prove themselves later" may save money on paper, but a rule of giving notice and a human check before anyone loses food would prevent far more suffering. ACS value 1.2.1 puts the public interest before sectional interests (ACS 2014). "Data mismatch" sounds like a technical bug, but for a family in Telangana it meant going without food, so I would treat data matching errors as a safety issue.
 
 ---
 
@@ -115,13 +117,13 @@ In this Democracy Now! interview, journalist Yuval Abraham explains his +972 Mag
 I chose this because it is the most extreme form of government ADM I found, a system linked to decisions about who lives. I included the military's denial because the claims come from anonymous sources, and I wanted to present the case fairly.
 
 ### Reflection
-What disturbed me most was how calculated the process sounds: sources described an accepted number of civilian deaths per target (Abraham 2024). That is act utilitarianism turned into a setting, and it shows the theory's biggest weakness: any one person can be outweighed. Kant would answer that no person can be a number in someone else's calculation. A human spending 20 seconds approving a machine's choice is not meaningful human control, it is automation bias. As a cyber security student, I may one day be asked to build or secure systems like this. ACS value 1.2.1 puts the public interest first (ACS 2014), and this artefact made me realise there are systems I would refuse to work on.
+What disturbed me most was how calculated it sounds: sources described an accepted number of civilian deaths per target (Abraham 2024). That is act utilitarianism turned into a setting, and it shows the theory's weakness: any one person can be outweighed. Kant would answer that no person can be a number in someone else's calculation. Twenty seconds of human approval is not meaningful control. It is closer to automation bias, and I have felt a small version of it. During my internship back home, waves of false positives sometimes hit us with 20 or 30 alerts at once. After enough of them your brain gets drained, and that is when you can skip a real positive, while a false negative was our worst nightmare. Our mistakes cost time, and even we struggled. As a cyber security student I may one day be asked to secure systems like this. ACS value 1.2.1 puts the public interest first (ACS 2014), and this artefact made me realise there are systems I would refuse to work on.
 
 ---
 
 ## What changed for me
 
-I started this unit thinking ADM was neutral. I now see every automated decision as carrying the choices of the people who designed it, approved it and kept it running. Across these six artefacts, the harm came from a law the code ignored, a review nobody checked, a score nobody can explain, a data mismatch that took away food, and a 20-second approval in a war. Mark and Morison (2025, p. 17) warn that governments are favouring innovation over accountability. As someone heading into cyber security, I want to be the person in the room who asks three questions: does the system match the current law, has a human genuinely checked the output, and can the people affected see and challenge the decision?
+I started this unit thinking ADM was neutral. Now I see every automated decision as carrying the choices of the people who designed it, approved it and kept it running. Across these six artefacts, the harm came from a law the code ignored, a review nobody checked, a score nobody can explain, a data mismatch that took away food, and a 20-second approval in a war. Mark and Morison (2025, p. 17) warn that governments are favouring innovation over accountability. As someone heading into cyber security, I want to be the person in the room who asks three questions: does the system match the current law, has a human properly checked the output, and can the people affected see and challenge the decision?
 
 ---
 
