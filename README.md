@@ -109,7 +109,7 @@ All sources are cited using CQUniversity's Harvard referencing style, with a ful
 
 ## AI usage
 
-An AI usage statement is included at the end of each e-portfolio file, disclosing where AI tools assisted with research and citation checking. Summaries, justifications, and reflections were written independently.
+An AI usage statement is included at the end of each e-portfolio file, disclosing where AI tools assisted with research and citation checking. Summaries, justifications, and reflections are my own work, and any drafting help is disclosed in that file's statement.
 
 ## Read the portfolios
 
@@ -122,3 +122,13 @@ An AI usage statement is included at the end of each e-portfolio file, disclosin
 [Portfolio 4-W9.MD](./Portfolio%204-W9.MD)
 
 [Portfolio 5-ADM.MD](./Portfolio%205-ADM.MD)
+
+## Use of Claude AI
+
+I used Claude, an AI assistant made by Anthropic, to help with:
+
+- creating the diagrams and images in the `images` folder
+- finding, checking and formatting references in CQU Harvard style
+- searching for possible artefacts and filtering them down to the final selection
+
+I made the final choice of artefacts, checked every source myself, and the AI statement in each portfolio file describes any other help.
