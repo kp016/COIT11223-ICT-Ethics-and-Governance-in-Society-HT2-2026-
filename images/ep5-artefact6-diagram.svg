@@ -1,25 +1,35 @@
-<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
-  <rect width="800" height="460" fill="#0a0a0c"/>
-  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
-  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">When the decision is about who lives</text>
-  <text x="56" y="88" fill="#8a8a94" font-size="14">Lavender, as reported by +972 Magazine and Democracy Now! (Abraham 2024)</text>
-  <text x="168" y="196" text-anchor="middle" fill="#c81e30" font-size="58" font-weight="700">37,000</text>
-  <text x="168" y="223" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">PEOPLE MARKED, AT MOST</text>
-  <text x="400" y="196" text-anchor="middle" fill="#ffffff" font-size="58" font-weight="700">~10%</text>
-  <text x="400" y="223" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">ERRORS, PER SOURCES</text>
-  <text x="632" y="196" text-anchor="middle" fill="#ffffff" font-size="58" font-weight="700">~20 sec</text>
-  <text x="632" y="223" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">HUMAN REVIEW PER TARGET</text>
-  <line x1="284" y1="130" x2="284" y2="230" stroke="#2a2a32"/>
-  <line x1="516" y1="130" x2="516" y2="230" stroke="#2a2a32"/>
-  <rect x="56" y="262" width="330" height="96" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="76" y="290" text-anchor="start" fill="#c81e30" font-size="11" font-weight="700" letter-spacing="1">ACT UTILITARIANISM AS A SETTING</text>
-  <text x="76" y="316" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">Sources described an accepted number</text>
-  <text x="76" y="336" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">of civilian deaths per target</text>
-  <rect x="414" y="262" width="330" height="96" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="434" y="290" text-anchor="start" fill="#8a8a94" font-size="11" font-weight="700" letter-spacing="1">KANT'S ANSWER</text>
-  <text x="434" y="316" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">No person can be a number in</text>
-  <text x="434" y="336" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">someone else's calculation</text>
-  <text x="56" y="396" text-anchor="start" fill="#ffffff" font-size="17" font-weight="700">20 seconds is not meaningful human control. It is automation bias.</text>
-  <text x="56" y="426" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">Claims come from six anonymous intelligence officers. The Israeli military denies using AI</text>
-  <text x="56" y="443" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">to identify targets and says its systems are tools that assist analysts.</text>
+<svg viewBox="0 0 800 458" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="799" height="457" rx="12" fill="#fbfaf7" stroke="#e3e0d8"/>
+  <text x="40" y="54" font-size="23" fill="#1f2328" font-weight="650" text-anchor="start">When the decision is about who lives</text>
+  <text x="40" y="80" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">Lavender, as reported by +972 Magazine and Democracy Now! (Abraham 2024)</text>
+  <rect x="40.0" y="104" width="171.0" height="100" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="56.0" y="146" font-size="28" fill="#2f5f8a" font-weight="650" text-anchor="start">37,000</text>
+  <text x="56.0" y="170" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">people marked,</text>
+  <text x="56.0" y="187" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">at most</text>
+  <rect x="223.0" y="104" width="171.0" height="100" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="239.0" y="146" font-size="28" fill="#2f5f8a" font-weight="650" text-anchor="start">1 to 100</text>
+  <text x="239.0" y="170" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">rating given to</text>
+  <text x="239.0" y="187" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">each person</text>
+  <rect x="406.0" y="104" width="171.0" height="100" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="422.0" y="146" font-size="28" fill="#2f5f8a" font-weight="650" text-anchor="start">~90%</text>
+  <text x="422.0" y="170" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">accuracy the</text>
+  <text x="422.0" y="187" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">military knew of</text>
+  <rect x="589.0" y="104" width="171.0" height="100" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="605.0" y="146" font-size="28" fill="#2f5f8a" font-weight="650" text-anchor="start">~20 sec</text>
+  <text x="605.0" y="170" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">human review</text>
+  <text x="605.0" y="187" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">per target</text>
+  <rect x="40" y="222" width="352" height="92" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="56" y="246" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">ACT UTILITARIANISM AS A SETTING</text>
+  <text x="56" y="272" font-size="14" fill="#1f2328" font-weight="400" text-anchor="start">Sources described an accepted</text>
+  <text x="56" y="292" font-size="14" fill="#1f2328" font-weight="400" text-anchor="start">number of civilian deaths per target.</text>
+  <rect x="408" y="222" width="352" height="92" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="424" y="246" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">KANT'S ANSWER</text>
+  <text x="424" y="272" font-size="14" fill="#1f2328" font-weight="400" text-anchor="start">No person can be a number in</text>
+  <text x="424" y="292" font-size="14" fill="#1f2328" font-weight="400" text-anchor="start">someone else's calculation.</text>
+  <rect x="40" y="330" width="720" height="52" rx="6" fill="#edf2f7" stroke="#edf2f7" stroke-width="1"/>
+  <rect x="40" y="330" width="4" height="52" fill="#2f5f8a"/>
+  <text x="58" y="361" font-size="13.5" fill="#1f2328" font-weight="600" text-anchor="start">One officer said he felt like a rubber stamp on the machine's decisions. That is automation bias.</text>
+  <line x1="40" y1="398" x2="760" y2="398" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="40" y="420" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">Claims come from six anonymous intelligence officers. The Israeli military denies using AI to</text>
+  <text x="40" y="438" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">identify targets and says its systems are tools that assist analysts.</text>
 </svg>

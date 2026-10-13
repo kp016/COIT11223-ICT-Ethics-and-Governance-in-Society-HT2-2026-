@@ -1,34 +1,33 @@
-<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
-  <rect width="800" height="460" fill="#0a0a0c"/>
-  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
-  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">Same technology, three different problems</text>
-  <text x="56" y="88" fill="#8a8a94" font-size="14">How the US, EU and China frame public sector ADM (Mark &amp; Morison 2025)</text>
-  <rect x="56" y="122" width="216" height="200" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="76" y="156" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="700" letter-spacing="2">US</text>
-  <text x="76" y="192" text-anchor="start" fill="#ffffff" font-size="21" font-weight="700">“Innovation gap”</text>
-  <text x="76" y="224" text-anchor="start" fill="#c9c9d1" font-size="13" font-weight="400">Fear of falling behind,</text>
-  <text x="76" y="243" text-anchor="start" fill="#c9c9d1" font-size="13" font-weight="400">so regulation is a cost</text>
-  <line x1="76" y1="268" x2="252" y2="268" stroke="#2a2a32"/>
-  <text x="76" y="296" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">My Week 4 match:</text>
-  <text x="76" y="313" text-anchor="start" fill="#c81e30" font-size="13" font-weight="700">Act utilitarianism</text>
-  <rect x="292" y="122" width="216" height="200" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="312" y="156" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="700" letter-spacing="2">EU</text>
-  <text x="312" y="192" text-anchor="start" fill="#ffffff" font-size="21" font-weight="700">“Trust deficit”</text>
-  <text x="312" y="224" text-anchor="start" fill="#c9c9d1" font-size="13" font-weight="400">Citizens must trust the</text>
-  <text x="312" y="243" text-anchor="start" fill="#c9c9d1" font-size="13" font-weight="400">system before it scales</text>
-  <line x1="312" y1="268" x2="488" y2="268" stroke="#2a2a32"/>
-  <text x="312" y="296" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">My Week 4 match:</text>
-  <text x="312" y="313" text-anchor="start" fill="#c81e30" font-size="13" font-weight="700">Kantianism</text>
-  <rect x="528" y="122" width="216" height="200" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="548" y="156" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="700" letter-spacing="2">CHINA</text>
-  <text x="548" y="192" text-anchor="start" fill="#ffffff" font-size="21" font-weight="700">“Stability risk”</text>
-  <text x="548" y="224" text-anchor="start" fill="#c9c9d1" font-size="13" font-weight="400">ADM serves order and</text>
-  <text x="548" y="243" text-anchor="start" fill="#c9c9d1" font-size="13" font-weight="400">state control</text>
-  <line x1="548" y1="268" x2="724" y2="268" stroke="#2a2a32"/>
-  <text x="548" y="296" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">My Week 4 match:</text>
-  <text x="548" y="313" text-anchor="start" fill="#c81e30" font-size="13" font-weight="700">Social contract</text>
-  <rect x="56" y="350" width="688" height="62" rx="4" fill="#c81e30"/>
-  <text x="400" y="377" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="400" letter-spacing="1">Where all three are heading</text>
-  <text x="400" y="399" text-anchor="middle" fill="#ffffff" font-size="18" font-weight="700">Innovation is moving ahead of accountability</text>
-  <text x="56" y="440" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">ADM = any system where decision-making authority is partly or fully delegated to algorithms</text>
+<svg viewBox="0 0 800 396" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="799" height="395" rx="12" fill="#fbfaf7" stroke="#e3e0d8"/>
+  <text x="40" y="54" font-size="23" fill="#1f2328" font-weight="650" text-anchor="start">Same technology, three different problems</text>
+  <text x="40" y="80" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">How the US, EU and China frame public sector ADM (Mark &amp; Morison 2025, p. 2)</text>
+  <rect x="40" y="108" width="226" height="176" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="56" y="134" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">US</text>
+  <text x="56" y="162" font-size="18" fill="#1f2328" font-weight="650" text-anchor="start">An innovation gap</text>
+  <text x="56" y="190" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">Worried about falling behind,</text>
+  <text x="56" y="209" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">so regulation feels like a cost</text>
+  <line x1="56" y1="236" x2="250" y2="236" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="56" y="256" font-size="11.5" fill="#8a8f97" font-weight="400" text-anchor="start">Closest Week 4 theory</text>
+  <text x="56" y="274" font-size="14" fill="#2f5f8a" font-weight="600" text-anchor="start">Act utilitarianism</text>
+  <rect x="287" y="108" width="226" height="176" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="303" y="134" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">EU</text>
+  <text x="303" y="162" font-size="18" fill="#1f2328" font-weight="650" text-anchor="start">A trust deficit</text>
+  <text x="303" y="190" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">People need to trust the system</text>
+  <text x="303" y="209" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">before it is used at scale</text>
+  <line x1="303" y1="236" x2="497" y2="236" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="303" y="256" font-size="11.5" fill="#8a8f97" font-weight="400" text-anchor="start">Closest Week 4 theory</text>
+  <text x="303" y="274" font-size="14" fill="#2f5f8a" font-weight="600" text-anchor="start">Kantianism</text>
+  <rect x="534" y="108" width="226" height="176" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="550" y="134" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">CHINA</text>
+  <text x="550" y="162" font-size="18" fill="#1f2328" font-weight="650" text-anchor="start">A stability risk</text>
+  <text x="550" y="190" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">ADM is a tool for order</text>
+  <text x="550" y="209" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">and state control</text>
+  <line x1="550" y1="236" x2="744" y2="236" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="550" y="256" font-size="11.5" fill="#8a8f97" font-weight="400" text-anchor="start">Closest Week 4 theory</text>
+  <text x="550" y="274" font-size="14" fill="#2f5f8a" font-weight="600" text-anchor="start">Social contract theory</text>
+  <rect x="40" y="304" width="720" height="64" rx="6" fill="#edf2f7" stroke="#edf2f7" stroke-width="1"/>
+  <rect x="40" y="304" width="4" height="64" fill="#2f5f8a"/>
+  <text x="58" y="330" font-size="14" fill="#1f2328" font-weight="600" text-anchor="start">Where all three are heading: innovation is moving ahead of accountability (p. 17)</text>
+  <text x="58" y="352" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">ADM: any system where decision-making authority is partly or fully delegated to algorithms (p. 2)</text>
 </svg>

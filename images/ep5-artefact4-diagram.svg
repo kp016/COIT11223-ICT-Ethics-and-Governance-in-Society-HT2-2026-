@@ -1,33 +1,38 @@
-<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
-  <rect width="800" height="460" fill="#0a0a0c"/>
-  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
-  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">From a person to a budget</text>
-  <text x="56" y="88" fill="#8a8a94" font-size="14">NDIS needs assessments from mid-2026 (Van Toorn &amp; Dickinson 2025)</text>
-  <rect x="56" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="70" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">THE PERSON</text>
-  <text x="70" y="186" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">Needs support</text>
-  <text x="70" y="206" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">for daily life</text>
-  <text x="224" y="184" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
-  <rect x="232" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="246" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">ASSESSMENT</text>
-  <text x="246" y="186" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">3-hour interview,</text>
-  <text x="246" y="206" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">self-reported</text>
-  <text x="400" y="184" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
-  <rect x="408" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="422" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">I-CAN TOOL</text>
-  <text x="422" y="186" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">Scores 12 areas</text>
-  <text x="422" y="206" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">of daily life</text>
-  <text x="576" y="184" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
-  <rect x="584" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#c81e30" stroke-dasharray="6 5"/>
-  <text x="598" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">THE BUDGET</text>
-  <text x="598" y="186" text-anchor="start" fill="#c81e30" font-size="14" font-weight="700">Set by a process</text>
-  <text x="598" y="206" text-anchor="start" fill="#c81e30" font-size="14" font-weight="700">not made public</text>
-  <text x="56" y="322" text-anchor="start" fill="#c81e30" font-size="76" font-weight="700">73%</text>
-  <text x="250" y="270" text-anchor="start" fill="#ffffff" font-size="15" font-weight="400">of 7,132 appeals against NDIA decisions in the</text>
-  <text x="250" y="292" text-anchor="start" fill="#ffffff" font-size="15" font-weight="400">year to June 2025 changed the decision</text>
-  <text x="250" y="322" text-anchor="start" fill="#8a8a94" font-size="12.5" font-weight="400">Human decisions are already overturned often (PWDA 2025)</text>
-  <line x1="56" y1="356" x2="744" y2="356" stroke="#2a2a32"/>
-  <text x="56" y="392" text-anchor="start" fill="#ffffff" font-size="17" font-weight="700">“The NDIS must never reduce us to data points in a secret algorithm.”</text>
-  <text x="56" y="416" text-anchor="start" fill="#8a8a94" font-size="12.5" font-weight="400">George Taleporos, Every Australian Counts</text>
-  <text x="56" y="444" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">Kantianism: people are ends, not inputs  |  ACS 1.2.2 Quality of life</text>
+<svg viewBox="0 0 800 430" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="799" height="429" rx="12" fill="#fbfaf7" stroke="#e3e0d8"/>
+  <text x="40" y="54" font-size="23" fill="#1f2328" font-weight="650" text-anchor="start">From a person to a budget</text>
+  <text x="40" y="80" font-size="13.5" fill="#5b616b" font-weight="400" text-anchor="start">NDIS needs assessments from mid-2026 (Van Toorn &amp; Dickinson 2025)</text>
+  <rect x="40.0" y="108" width="160.5" height="96" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="54.0" y="132" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">THE PERSON</text>
+  <text x="54.0" y="156" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">Needs support</text>
+  <text x="54.0" y="175" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">for daily life</text>
+  <line x1="204.5" y1="156.0" x2="216.5" y2="156.0" stroke="#8a8f97" stroke-width="1.5"/>
+  <path d="M215.5,152.0 L222.5,156.0 L215.5,160.0" fill="none" stroke="#8a8f97" stroke-width="1.5"/>
+  <rect x="226.5" y="108" width="160.5" height="96" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="240.5" y="132" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">ASSESSMENT</text>
+  <text x="240.5" y="156" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">A three-hour</text>
+  <text x="240.5" y="175" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">interview</text>
+  <line x1="391.0" y1="156.0" x2="403.0" y2="156.0" stroke="#8a8f97" stroke-width="1.5"/>
+  <path d="M402.0,152.0 L409.0,156.0 L402.0,160.0" fill="none" stroke="#8a8f97" stroke-width="1.5"/>
+  <rect x="413.0" y="108" width="160.5" height="96" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="427.0" y="132" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">I-CAN TOOL</text>
+  <text x="427.0" y="156" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">Scores 12 areas</text>
+  <text x="427.0" y="175" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">of daily life</text>
+  <line x1="577.5" y1="156.0" x2="589.5" y2="156.0" stroke="#8a8f97" stroke-width="1.5"/>
+  <path d="M588.5,152.0 L595.5,156.0 L588.5,160.0" fill="none" stroke="#8a8f97" stroke-width="1.5"/>
+  <rect x="599.5" y="108" width="160.5" height="96" rx="8" fill="#edf2f7" stroke="#2f5f8a" stroke-width="1"/>
+  <text x="613.5" y="132" font-size="10.5" fill="#8a8f97" font-weight="600" text-anchor="start" letter-spacing="0.8">THE BUDGET</text>
+  <text x="613.5" y="156" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">How scores become</text>
+  <text x="613.5" y="175" font-size="14" fill="#1f2328" font-weight="500" text-anchor="start">a budget is unclear</text>
+  <rect x="40" y="224" width="250" height="112" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="60" y="280" font-size="40" fill="#2f5f8a" font-weight="650" text-anchor="start">73%</text>
+  <text x="60" y="310" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">of appeals changed the</text>
+  <text x="60" y="327" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">decision (PWDA 2025)</text>
+  <rect x="306" y="224" width="454" height="112" rx="8" fill="#ffffff" stroke="#e3e0d8" stroke-width="1"/>
+  <rect x="306" y="224" width="4" height="112" fill="#2f5f8a"/>
+  <text x="326" y="262" font-size="16" fill="#1f2328" font-weight="500" text-anchor="start" font-style="italic">"The NDIS must never reduce us to data</text>
+  <text x="326" y="285" font-size="16" fill="#1f2328" font-weight="500" text-anchor="start" font-style="italic">points in a secret algorithm."</text>
+  <text x="326" y="318" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">George Taleporos (Van Toorn &amp; Dickinson 2025)</text>
+  <line x1="40" y1="370" x2="760" y2="370" stroke="#e3e0d8" stroke-width="1"/>
+  <text x="40" y="392" font-size="12.5" fill="#5b616b" font-weight="400" text-anchor="start">Kantianism: people are ends in themselves, never just inputs  |  ACS 1.2.2 Quality of life</text>
 </svg>
