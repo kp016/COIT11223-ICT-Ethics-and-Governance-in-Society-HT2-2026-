@@ -1,32 +1,33 @@
 <svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
   <rect width="800" height="460" fill="#0a0a0c"/>
   <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
-  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">Disclosure is not the same as a right to appeal</text>
-  <text x="56" y="88" fill="#8a8a94" font-size="14">Privacy Act ADM transparency rule, starts 10 December 2026 (OAIC 2026)</text>
-  <rect x="56" y="122" width="400" height="250" rx="4" fill="#16161b" stroke="#2a2a32"/>
-  <text x="78" y="154" text-anchor="start" fill="#8a8a94" font-size="12" font-weight="700" letter-spacing="1.5">WHAT AGENCIES MUST DO</text>
-  <rect x="78" y="179" width="10" height="10" fill="#ffffff"/>
-  <text x="100" y="190" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">List the kinds of personal information</text>
-  <text x="100" y="208" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">their programs use</text>
-  <rect x="78" y="225" width="10" height="10" fill="#ffffff"/>
-  <text x="100" y="236" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">List the kinds of decisions made</text>
-  <text x="100" y="254" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">solely by a computer program</text>
-  <rect x="78" y="271" width="10" height="10" fill="#ffffff"/>
-  <text x="100" y="282" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">List decisions a program substantially</text>
-  <text x="100" y="300" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">and directly informs</text>
-  <rect x="78" y="317" width="10" height="10" fill="#ffffff"/>
-  <text x="100" y="328" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">Name the type of ADM, not just “AI”</text>
-  <rect x="476" y="122" width="268" height="250" rx="4" fill="#0a0a0c" stroke="#c81e30" stroke-dasharray="6 5"/>
-  <text x="498" y="154" text-anchor="start" fill="#c81e30" font-size="12" font-weight="700" letter-spacing="1.5">WHAT IS MISSING</text>
-  <text x="498" y="192" text-anchor="start" fill="#c81e30" font-size="15" font-weight="700">✕</text>
-  <text x="520" y="192" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">A right to challenge</text>
-  <text x="520" y="210" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">the decision</text>
-  <text x="498" y="248" text-anchor="start" fill="#c81e30" font-size="15" font-weight="700">✕</text>
-  <text x="520" y="248" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">Telling each person</text>
-  <text x="520" y="266" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">directly</text>
-  <text x="498" y="304" text-anchor="start" fill="#c81e30" font-size="15" font-weight="700">✕</text>
-  <text x="520" y="304" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">Any duty to explain</text>
-  <text x="520" y="322" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">a single decision</text>
-  <text x="56" y="412" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400">Kantianism: telling someone a machine judged them, with no way to answer back,</text>
-  <text x="56" y="432" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400">still treats them as a case number, not a rational person.  |  ACS 1.2.1 Public interest</text>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">From a person to a budget</text>
+  <text x="56" y="88" fill="#8a8a94" font-size="14">NDIS needs assessments from mid-2026 (Van Toorn &amp; Dickinson 2025)</text>
+  <rect x="56" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">THE PERSON</text>
+  <text x="70" y="186" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">Needs support</text>
+  <text x="70" y="206" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">for daily life</text>
+  <text x="224" y="184" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="232" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="246" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">ASSESSMENT</text>
+  <text x="246" y="186" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">3-hour interview,</text>
+  <text x="246" y="206" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">self-reported</text>
+  <text x="400" y="184" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="408" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="422" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">I-CAN TOOL</text>
+  <text x="422" y="186" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">Scores 12 areas</text>
+  <text x="422" y="206" text-anchor="start" fill="#ffffff" font-size="14" font-weight="700">of daily life</text>
+  <text x="576" y="184" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="584" y="122" width="160" height="110" rx="4" fill="#16161b" stroke="#c81e30" stroke-dasharray="6 5"/>
+  <text x="598" y="150" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">THE BUDGET</text>
+  <text x="598" y="186" text-anchor="start" fill="#c81e30" font-size="14" font-weight="700">Set by a process</text>
+  <text x="598" y="206" text-anchor="start" fill="#c81e30" font-size="14" font-weight="700">not made public</text>
+  <text x="56" y="322" text-anchor="start" fill="#c81e30" font-size="76" font-weight="700">73%</text>
+  <text x="250" y="270" text-anchor="start" fill="#ffffff" font-size="15" font-weight="400">of 7,132 appeals against NDIA decisions in the</text>
+  <text x="250" y="292" text-anchor="start" fill="#ffffff" font-size="15" font-weight="400">year to June 2025 changed the decision</text>
+  <text x="250" y="322" text-anchor="start" fill="#8a8a94" font-size="12.5" font-weight="400">Human decisions are already overturned often (PWDA 2025)</text>
+  <line x1="56" y1="356" x2="744" y2="356" stroke="#2a2a32"/>
+  <text x="56" y="392" text-anchor="start" fill="#ffffff" font-size="17" font-weight="700">“The NDIS must never reduce us to data points in a secret algorithm.”</text>
+  <text x="56" y="416" text-anchor="start" fill="#8a8a94" font-size="12.5" font-weight="400">George Taleporos, Every Australian Counts</text>
+  <text x="56" y="444" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">Kantianism: people are ends, not inputs  |  ACS 1.2.2 Quality of life</text>
 </svg>

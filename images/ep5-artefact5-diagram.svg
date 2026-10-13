@@ -1,37 +1,35 @@
 <svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
   <rect width="800" height="460" fill="#0a0a0c"/>
   <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
-  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">Seven years to see the code</text>
-  <text x="56" y="88" fill="#8a8a94" font-size="14">Spain's BOSCO, the program deciding who gets the electricity discount (Civio 2025)</text>
-  <text x="56" y="200" text-anchor="start" fill="#c81e30" font-size="96" font-weight="700">7</text>
-  <text x="56" y="228" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">YEARS OF REFUSAL</text>
-  <text x="250" y="150" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="700">Government's reasons for secrecy</text>
-  <text x="250" y="178" text-anchor="start" fill="#ffffff" font-size="17" font-weight="700">National security</text>
-  <text x="250" y="202" text-anchor="start" fill="#ffffff" font-size="17" font-weight="700">Intellectual property</text>
-  <text x="250" y="236" text-anchor="start" fill="#c81e30" font-size="13.5" font-weight="700">Court: “unnoticed vulnerabilities” are found through scrutiny</text>
-  <rect x="56" y="282" width="688" height="8" rx="4" fill="#2a2a32"/>
-  <rect x="56" y="282" width="688" height="8" rx="4" fill="#c81e30" opacity="0.35"/>
-  <circle cx="70" cy="286" r="7" fill="#ffffff"/>
-  <text x="70" y="318" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">2018</text>
-  <text x="70" y="336" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">Civio requests</text>
-  <text x="70" y="352" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">the source code</text>
-  <circle cx="230" cy="286" r="7" fill="#c9c9d1"/>
-  <text x="230" y="318" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">2019</text>
-  <text x="230" y="336" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">Docs given,</text>
-  <text x="230" y="352" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">code refused</text>
-  <circle cx="390" cy="286" r="7" fill="#c9c9d1"/>
-  <text x="390" y="318" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">2021</text>
-  <text x="390" y="336" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">First court</text>
-  <text x="390" y="352" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">says no</text>
-  <circle cx="550" cy="286" r="7" fill="#c9c9d1"/>
-  <text x="550" y="318" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">2024</text>
-  <text x="550" y="336" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">National court</text>
-  <text x="550" y="352" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">says no</text>
-  <circle cx="730" cy="286" r="7" fill="#c81e30"/>
-  <text x="730" y="318" text-anchor="end" fill="#c9c9d1" font-size="12.5" font-weight="700">Sep 2025</text>
-  <text x="730" y="336" text-anchor="end" fill="#6a6a74" font-size="11.5" font-weight="400">Supreme Court</text>
-  <text x="730" y="352" text-anchor="end" fill="#6a6a74" font-size="11.5" font-weight="400">orders release</text>
-  <line x1="56" y1="384" x2="744" y2="384" stroke="#2a2a32"/>
-  <text x="56" y="414" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400">Rule utilitarianism: a general rule that public decision code is open to scrutiny</text>
-  <text x="56" y="434" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400">catches errors before they reach thousands of people. Same logic as vulnerability disclosure.</text>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">An algorithm that decided who eats</text>
+  <text x="56" y="88" fill="#8a8a94" font-size="14">Samagra Vedika, Telangana, India (Tapasya, Sambhav &amp; Joshi 2024)</text>
+  <text x="168" y="190" text-anchor="middle" fill="#c81e30" font-size="62" font-weight="700">1.86M</text>
+  <text x="168" y="217" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">FOOD CARDS CANCELLED</text>
+  <text x="168" y="236" text-anchor="middle" fill="#6a6a74" font-size="11.5" font-weight="400">2014 to 2019</text>
+  <text x="400" y="190" text-anchor="middle" fill="#ffffff" font-size="62" font-weight="700">30</text>
+  <text x="400" y="217" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">DATABASES MERGED</text>
+  <text x="400" y="236" text-anchor="middle" fill="#6a6a74" font-size="11.5" font-weight="400">into one family profile</text>
+  <text x="632" y="190" text-anchor="middle" fill="#ffffff" font-size="62" font-weight="700">7.5%+</text>
+  <text x="632" y="217" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">WRONGLY REJECTED</text>
+  <text x="632" y="236" text-anchor="middle" fill="#6a6a74" font-size="11.5" font-weight="400">found on court-ordered re-check</text>
+  <line x1="284" y1="130" x2="284" y2="240" stroke="#2a2a32"/>
+  <line x1="516" y1="130" x2="516" y2="240" stroke="#2a2a32"/>
+  <text x="56" y="290" text-anchor="start" fill="#8a8a94" font-size="12" font-weight="700" letter-spacing="1.5">ONE FAMILY'S RECORD</text>
+  <rect x="56" y="304" width="160" height="62" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="330" text-anchor="start" fill="#ffffff" font-size="13" font-weight="700">Bismillah Bee,</text>
+  <text x="70" y="350" text-anchor="start" fill="#ffffff" font-size="13" font-weight="700">67, widow</text>
+  <text x="224" y="340" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="232" y="304" width="160" height="62" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="246" y="330" text-anchor="start" fill="#ffffff" font-size="13" font-weight="700">Late husband matched</text>
+  <text x="246" y="350" text-anchor="start" fill="#ffffff" font-size="13" font-weight="700">to a different man</text>
+  <text x="400" y="340" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="408" y="304" width="160" height="62" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="422" y="330" text-anchor="start" fill="#ffffff" font-size="13" font-weight="700">Tagged as</text>
+  <text x="422" y="350" text-anchor="start" fill="#ffffff" font-size="13" font-weight="700">“car owner”</text>
+  <text x="576" y="340" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="584" y="304" width="160" height="62" rx="4" fill="#16161b" stroke="#c81e30"/>
+  <text x="598" y="330" text-anchor="start" fill="#c81e30" font-size="13" font-weight="700">Food rations</text>
+  <text x="598" y="350" text-anchor="start" fill="#c81e30" font-size="13" font-weight="700">denied</text>
+  <text x="56" y="412" text-anchor="start" fill="#8a8a94" font-size="12.5" font-weight="400">Rule utilitarianism: “cut first, prove later” vs “notice and a human check before anyone loses food”</text>
+  <text x="56" y="440" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">ACS 1.2.1: the public interest comes before cost savings</text>
 </svg>

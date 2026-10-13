@@ -89,7 +89,7 @@ Also included: two photos from the Week 9 workshop, a group selfie with the tuto
 
 ## e-Portfolio 5: Automated Decision-Making in Government
 
-The final e-portfolio (Assessment 3). Six artefacts tracing how my view of ADM in government changed over the term, from a neutral efficiency tool to a set of human choices about who gets helped, who gets flagged and who can appeal. Four focus on Australia and two on systems overseas. Each artefact has a summary, a justification, a reflection linking it to the ethical theories and the ACS Code, and an explanatory diagram.
+The final e-portfolio (Assessment 3). Six artefacts tracing how my view of ADM in government changed over the term, from a neutral efficiency tool to a set of human choices about who gets helped, who gets flagged and who can appeal. Three focus on Australia, one is a global journal article, and two cover systems in India and in Israel and Gaza. Each artefact has a summary, a justification, a reflection linking it to the ethical theories and the ACS Code, and an explanatory diagram.
 
 **Artefact 1:** Journal article - Mark and Morison (2025) in *Politics and Governance*, defining ADM and comparing how the US, EU and China frame it.
 
@@ -97,11 +97,11 @@ The final e-portfolio (Assessment 3). Six artefacts tracing how my view of ADM i
 
 **Artefact 3:** News article - Fortune on Deloitte's AI-assisted review of that same system, and the fabricated references a researcher found in it.
 
-**Artefact 4:** Government fact sheet - the OAIC's guidance for agencies on the Privacy Act ADM transparency rule starting 10 December 2026.
+**Artefact 4:** Research commentary - UNSW researchers on the new NDIS needs assessments and the push for transparency over "computer-generated" plans.
 
-**Artefact 5:** NGO article - Civio on Spain's Supreme Court ordering the government to release the source code of BOSCO.
+**Artefact 5:** Investigative journalism - Al Jazeera on Telangana's Samagra Vedika algorithm cancelling more than 1.86 million food security cards in India.
 
-**Artefact 6:** Conference video - Amnesty International's 38C3 talk on welfare automation, focusing on Denmark's fraud-detection models.
+**Artefact 6:** Video interview - Democracy Now! with journalist Yuval Abraham on the reported use of the Lavender AI system to mark targets in Gaza.
 
 ## Referencing
 
