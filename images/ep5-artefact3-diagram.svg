@@ -1,0 +1,31 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="460" fill="#0a0a0c"/>
+  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">Who checks the checker?</text>
+  <text x="56" y="88" fill="#8a8a94" font-size="14">The review of an automated system was written with an automated tool (Paoli 2025)</text>
+  <rect x="56" y="128" width="160" height="120" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="156" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">AUTOMATED SYSTEM</text>
+  <text x="70" y="196" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">Targeted Compliance</text>
+  <text x="70" y="216" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">Framework</text>
+  <text x="222" y="194" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="232" y="128" width="160" height="120" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="246" y="156" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">INDEPENDENT REVIEW</text>
+  <text x="246" y="196" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">Deloitte, 237 pages,</text>
+  <text x="246" y="216" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">about A$440,000</text>
+  <text x="398" y="194" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="408" y="128" width="160" height="120" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="422" y="156" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">HOW IT WAS WRITTEN</text>
+  <text x="422" y="196" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">With Azure OpenAI,</text>
+  <text x="422" y="216" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">disclosed only later</text>
+  <text x="574" y="194" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <rect x="584" y="128" width="160" height="120" rx="4" fill="#16161b" stroke="#c81e30"/>
+  <text x="598" y="156" text-anchor="start" fill="#8a8a94" font-size="10" font-weight="700" letter-spacing="1">WHAT WAS FOUND</text>
+  <text x="598" y="196" text-anchor="start" fill="#c81e30" font-size="13.5" font-weight="700">Fake references,</text>
+  <text x="598" y="216" text-anchor="start" fill="#c81e30" font-size="13.5" font-weight="700">a fake court quote</text>
+  <text x="56" y="300" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="700" letter-spacing="1">The outcome</text>
+  <text x="56" y="330" text-anchor="start" fill="#ffffff" font-size="15" font-weight="400">Corrected report re-published, findings unchanged, partial refund to the government.</text>
+  <line x1="56" y1="356" x2="744" y2="356" stroke="#2a2a32"/>
+  <text x="56" y="388" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400">My rule from this:</text>
+  <text x="56" y="414" text-anchor="start" fill="#c81e30" font-size="19" font-weight="700">AI can help draft. A human has to verify and own the output.</text>
+  <text x="56" y="444" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">Virtue ethics: what would an honest, careful professional do?  |  ACS 1.2.3 Honesty</text>
+</svg>

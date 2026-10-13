@@ -1,0 +1,37 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="460" fill="#0a0a0c"/>
+  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">The law changed one word. The code did not.</text>
+  <text x="56" y="88" fill="#8a8a94" font-size="14">Targeted Compliance Framework, Australia (Truu 2025)</text>
+  <text x="168" y="196" text-anchor="middle" fill="#c81e30" font-size="76" font-weight="700">964</text>
+  <text x="168" y="223" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">PAYMENTS CANCELLED</text>
+  <text x="400" y="196" text-anchor="middle" fill="#ffffff" font-size="76" font-weight="700">27</text>
+  <text x="400" y="223" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">MONTHS UNLAWFUL</text>
+  <text x="632" y="196" text-anchor="middle" fill="#ffffff" font-size="76" font-weight="700">1</text>
+  <text x="632" y="223" text-anchor="middle" fill="#8a8a94" font-size="13" font-weight="400" letter-spacing="1">WORD CHANGED</text>
+  <line x1="284" y1="130" x2="284" y2="230" stroke="#2a2a32"/>
+  <line x1="516" y1="130" x2="516" y2="230" stroke="#2a2a32"/>
+  <rect x="200" y="252" width="400" height="44" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="330" y="280" text-anchor="middle" fill="#8a8a94" font-size="16" font-weight="700">“must cancel”</text>
+  <text x="400" y="280" text-anchor="middle" fill="#c81e30" font-size="18" font-weight="700">→</text>
+  <text x="470" y="280" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">“may cancel”</text>
+  <rect x="56" y="330" width="688" height="8" rx="4" fill="#2a2a32"/>
+  <rect x="56" y="330" width="434" height="8" rx="4" fill="#c81e30"/>
+  <circle cx="70" cy="334" r="7" fill="#ffffff"/>
+  <text x="70" y="366" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">Apr 2022</text>
+  <text x="70" y="384" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">Law now needs a human</text>
+  <text x="70" y="400" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">to consider each case</text>
+  <circle cx="300" cy="334" r="7" fill="#c81e30"/>
+  <text x="300" y="366" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">2022 to 2024</text>
+  <text x="300" y="384" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">System keeps cancelling</text>
+  <text x="300" y="400" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">automatically</text>
+  <circle cx="490" cy="334" r="7" fill="#ffffff"/>
+  <text x="490" y="366" text-anchor="start" fill="#c9c9d1" font-size="12.5" font-weight="700">Jul 2024</text>
+  <text x="490" y="384" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">Cancellations</text>
+  <text x="490" y="400" text-anchor="start" fill="#6a6a74" font-size="11.5" font-weight="400">paused</text>
+  <circle cx="730" cy="334" r="7" fill="#ffffff"/>
+  <text x="730" y="366" text-anchor="end" fill="#c9c9d1" font-size="12.5" font-weight="700">Aug 2025</text>
+  <text x="730" y="384" text-anchor="end" fill="#6a6a74" font-size="11.5" font-weight="400">Ombudsman: unlawful,</text>
+  <text x="730" y="400" text-anchor="end" fill="#6a6a74" font-size="11.5" font-weight="400">7 recommendations</text>
+  <text x="56" y="440" text-anchor="start" fill="#8a8a94" font-size="12" font-weight="400">ACS 1.2.4 Competence: the Ombudsman found adequate care and skill were not applied</text>
+</svg>

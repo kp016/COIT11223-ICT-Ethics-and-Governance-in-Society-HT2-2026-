@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="460" fill="#0a0a0c"/>
+  <rect x="0" y="0" width="800" height="6" fill="#c81e30"/>
+  <text x="56" y="62" fill="#ffffff" font-size="27" font-weight="700">How a welfare algorithm decides who looks suspicious</text>
+  <text x="56" y="88" fill="#8a8a94" font-size="14">Udbetaling Danmark's fraud models, Denmark (Amnesty International 2024a, 2024b)</text>
+  <rect x="56" y="134" width="210" height="34" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="156" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">Citizenship</text>
+  <line x1="266" y1="151" x2="330" y2="236" stroke="#2a2a32" stroke-width="1"/>
+  <rect x="56" y="178" width="210" height="34" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="200" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">Place of birth</text>
+  <line x1="266" y1="195" x2="330" y2="236" stroke="#2a2a32" stroke-width="1"/>
+  <rect x="56" y="222" width="210" height="34" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="244" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">Family relationships</text>
+  <line x1="266" y1="239" x2="330" y2="236" stroke="#2a2a32" stroke-width="1"/>
+  <rect x="56" y="266" width="210" height="34" rx="4" fill="#16161b" stroke="#2a2a32"/>
+  <text x="70" y="288" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="400">Travel history</text>
+  <line x1="266" y1="283" x2="330" y2="236" stroke="#2a2a32" stroke-width="1"/>
+  <rect x="56" y="310" width="210" height="34" rx="4" fill="#c81e30" stroke="#c81e30"/>
+  <text x="70" y="332" text-anchor="start" fill="#ffffff" font-size="13.5" font-weight="700">Ties to non-EEA countries</text>
+  <line x1="266" y1="327" x2="330" y2="236" stroke="#c81e30" stroke-width="2"/>
+  <rect x="330" y="186" width="200" height="100" rx="4" fill="#16161b" stroke="#c81e30"/>
+  <text x="430" y="222" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">Up to 60 models</text>
+  <text x="430" y="246" text-anchor="middle" fill="#c81e30" font-size="13.5" font-weight="700">incl. “Model Abroad”</text>
+  <text x="430" y="268" text-anchor="middle" fill="#6a6a74" font-size="11.5" font-weight="400">Amnesty saw 4 of them</text>
+  <line x1="530" y1="236" x2="580" y2="236" stroke="#c81e30" stroke-width="2"/>
+  <text x="586" y="230" text-anchor="start" fill="#ffffff" font-size="15" font-weight="700">Flagged for a</text>
+  <text x="586" y="250" text-anchor="start" fill="#ffffff" font-size="15" font-weight="700">fraud investigation</text>
+  <line x1="56" y1="370" x2="744" y2="370" stroke="#2a2a32"/>
+  <text x="56" y="400" text-anchor="start" fill="#c9c9d1" font-size="13.5" font-weight="400">Someone who moved here from India, like me, has exactly the kind of tie this model scores.</text>
+  <text x="56" y="424" text-anchor="start" fill="#8a8a94" font-size="13" font-weight="400">Act utilitarianism can justify flagging many to catch a few. The harm lands on the same minority.</text>
+  <text x="56" y="446" text-anchor="start" fill="#6a6a74" font-size="12" font-weight="400">ACS 1.2.2 Quality of life: test who a model flags, not only how accurate it is</text>
+</svg>

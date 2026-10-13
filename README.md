@@ -16,7 +16,8 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 | 1 | Artificial Intelligence | 26 July | Submitted |
 | 2 | Ethical Theory | 9 August | Submitted |
 | 3 | Intellectual Property | 4 September | Submitted |
-| 4 | Censorship and Government | 18 September | Pending |
+| 4 | Censorship and Government | 18 September | Submitted |
+| 5 | Automated Decision-Making in Government (Assessment 3) | TBC | In progress |
 
 ## What's in here
 
@@ -26,6 +27,7 @@ e-Portfolio submissions for COIT11223, Term 2 2026, CQUniversity.
 |-- Portfolio 2-W4.MD  -> e-Portfolio 2: Ethical Theory
 |-- Portfolio 3-W7.MD  -> e-Portfolio 3: Intellectual Property
 |-- Portfolio 4-W9.MD  -> e-Portfolio 4: Censorship and Government
+|-- Portfolio 5-ADM.MD -> e-Portfolio 5: Automated Decision-Making in Government
 `-- images/            -> workshop attendance photos and artefact diagrams
 ```
 
@@ -85,6 +87,22 @@ Four artefacts from Week 9. Three are real censorship disputes spanning a nation
 
 Also included: two photos from the Week 9 workshop, a group selfie with the tutor and a shot of the Cloudflare slide that Artefact 4 discusses.
 
+## e-Portfolio 5: Automated Decision-Making in Government
+
+The final e-portfolio (Assessment 3). Six artefacts tracing how my view of ADM in government changed over the term, from a neutral efficiency tool to a set of human choices about who gets helped, who gets flagged and who can appeal. Four focus on Australia and two on systems overseas. Each artefact has a summary, a justification, a reflection linking it to the ethical theories and the ACS Code, and an explanatory diagram.
+
+**Artefact 1:** Journal article - Mark and Morison (2025) in *Politics and Governance*, defining ADM and comparing how the US, EU and China frame it.
+
+**Artefact 2:** News article - ABC News on the Commonwealth Ombudsman finding that the Targeted Compliance Framework unlawfully cancelled 964 jobseekers' payments.
+
+**Artefact 3:** News article - Fortune on Deloitte's AI-assisted review of that same system, and the fabricated references a researcher found in it.
+
+**Artefact 4:** Government fact sheet - the OAIC's guidance for agencies on the Privacy Act ADM transparency rule starting 10 December 2026.
+
+**Artefact 5:** NGO article - Civio on Spain's Supreme Court ordering the government to release the source code of BOSCO.
+
+**Artefact 6:** Conference video - Amnesty International's 38C3 talk on welfare automation, focusing on Denmark's fraud-detection models.
+
 ## Referencing
 
 All sources are cited using CQUniversity's Harvard referencing style, with a full reference list at the end of each portfolio file.
@@ -102,3 +120,5 @@ An AI usage statement is included at the end of each e-portfolio file, disclosin
 [Portfolio 3-W7.MD](./Portfolio%203-W7.MD)
 
 [Portfolio 4-W9.MD](./Portfolio%204-W9.MD)
+
+[Portfolio 5-ADM.MD](./Portfolio%205-ADM.MD)
