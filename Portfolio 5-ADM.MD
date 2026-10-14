@@ -127,6 +127,12 @@ I started this unit thinking ADM was neutral. Now I see every automated decision
 
 ---
 
+## Assessment 3 Question 1 video
+
+My video for Question 1, explaining my decision on the AI triage scenario to "Vin": [watch on YouTube](https://youtu.be/u4MRY5FJSxQ)
+
+---
+
 ## AI usage statement
 
 I used Claude, an AI assistant, to help search for candidate sources, check facts against the original pages, plan the structure, draft the text and generate the six diagrams. I chose the final six artefacts, opened and checked every source and reference myself, and edited the summaries and reflections so they reflect my own views and experience.
