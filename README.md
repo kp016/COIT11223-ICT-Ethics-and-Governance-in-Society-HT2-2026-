@@ -103,6 +103,10 @@ The final e-portfolio (Assessment 3). Six artefacts tracing how my view of ADM i
 
 **Artefact 6:** Video interview - Democracy Now! with journalist Yuval Abraham on the reported use of the Lavender AI system to mark targets in Gaza.
 
+## Assessment 3 Question 1 video
+
+My video explaining my decision on the AI triage scenario to "Vin": [watch on YouTube](https://youtu.be/u4MRY5FJSxQ)
+
 ## Referencing
 
 All sources are cited using CQUniversity's Harvard referencing style, with a full reference list at the end of each portfolio file.
